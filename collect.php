@@ -11,7 +11,7 @@ function addHeader ($subscription, $subscriptionName) {
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://t.me/v2raycollector
-#profile-web-page-url: https://github.com/yebekhe/TelegramV2rayCollector
+#profile-web-page-url: https://github.com/zhbjzhql1/TelegramV2rayCollector
 
 ";
 
@@ -95,7 +95,7 @@ function config_array($input){
 }
 
 $raw_url_base =
-    "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main"; // Define the base URL for fetching raw data
+    "https://raw.githubusercontent.com/zhbjzhql1/TelegramV2rayCollector/main"; // Define the base URL for fetching raw data
 
 $mix_data = []; // Initialize an empty array for mix data
 $vmess_data = []; // Initialize an empty array for vmess data
