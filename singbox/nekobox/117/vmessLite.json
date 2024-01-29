@@ -116,6 +116,7 @@
                 "رایگان | VMESS | @DailyV2RY | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | VMESS | @yaney_01 | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | VMESS | @yaney_01 | CA🇨🇦 | 0️⃣2️⃣",
+                "رایگان | VMESS | @yaney_01 | KR🇰🇷 | 0️⃣3️⃣",
                 "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @Hope_Net | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | VMESS | @Hope_Net | CA🇨🇦 | 0️⃣3️⃣",
@@ -149,6 +150,7 @@
                 "رایگان | VMESS | @DailyV2RY | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | VMESS | @yaney_01 | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | VMESS | @yaney_01 | CA🇨🇦 | 0️⃣2️⃣",
+                "رایگان | VMESS | @yaney_01 | KR🇰🇷 | 0️⃣3️⃣",
                 "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @Hope_Net | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | VMESS | @Hope_Net | CA🇨🇦 | 0️⃣3️⃣",
@@ -499,6 +501,23 @@
             }
         },
         {
+            "tag": "رایگان | VMESS | @yaney_01 | KR🇰🇷 | 0️⃣3️⃣",
+            "type": "vmess",
+            "server": "45.154.14.209",
+            "server_port": 48852,
+            "uuid": "557769ba-e085-49ef-8ac6-96cf3d1a9730",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣1️⃣",
             "type": "vmess",
             "server": "104.17.184.241",
@@ -729,9 +748,9 @@
         {
             "tag": "رایگان | VMESS | @forwardv2ray | CA🇨🇦 | 0️⃣1️⃣",
             "type": "vmess",
-            "server": "172.67.196.112",
-            "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+            "server": "www.zula.ir",
+            "server_port": 8880,
+            "uuid": "61dce6b8-1052-469a-c500-88a3fb58e186",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -742,21 +761,11 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "kellie.makeup",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "\/linkvws",
+                "path": "\/private",
                 "headers": {
-                    "Host": "kellie.makeup"
+                    "Host": "origin1.join-private.ir"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
