@@ -113,7 +113,6 @@
                 "DE🇩🇪",
                 "CA🇨🇦",
                 "AT🇦🇹",
-                "SE🇸🇪",
                 "RU🇷🇺"
             ]
         },
@@ -136,7 +135,6 @@
                 "رایگان | SS | @OutlineVpnOfficial | CA🇨🇦 | 0️⃣4️⃣",
                 "رایگان | SS | @kingofilter | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | AT🇦🇹 | 0️⃣5️⃣",
-                "رایگان | SS | @forwardv2ray | SE🇸🇪 | 0️⃣2️⃣",
                 "رایگان | SS | @ROMAX_VPN | RU🇷🇺 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -231,16 +229,6 @@
             "tolerance": 50
         },
         {
-            "tag": "SE🇸🇪",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | SS | @forwardv2ray | SE🇸🇪 | 0️⃣2️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
             "tag": "RU🇷🇺",
             "type": "urltest",
             "outbounds": [
@@ -283,10 +271,10 @@
         {
             "tag": "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣",
             "type": "shadowsocks",
-            "server": "series-a2-mec.samanehha.co",
+            "server": "series-a1.samanehha.co",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
-            "password": "u17T3BvpYaaiuW2c",
+            "password": "W74XFALLLuw6m5IA",
             "plugin": "",
             "plugin_opts": ""
         },
@@ -397,16 +385,6 @@
             "server_port": 12949,
             "method": "chacha20-ietf-poly1305",
             "password": "P2zxXPewlV3BlfqqYiSthvtLc",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @forwardv2ray | SE🇸🇪 | 0️⃣2️⃣",
-            "type": "shadowsocks",
-            "server": "16.16.79.191",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "7n\/NG9r6LxwpV6oQINRRfwOPfbpoqCmho1i+kq83kQ8=",
             "plugin": "",
             "plugin_opts": ""
         },
