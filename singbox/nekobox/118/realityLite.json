@@ -111,7 +111,7 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "رایگان | REALITY | @V2pedia | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | REALITY | @Capoit | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | REALITY | @Capoit | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @IBv2ray | SE🇸🇪 | 0️⃣4️⃣"
             ]
@@ -121,7 +121,7 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | REALITY | @V2pedia | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | REALITY | @Capoit | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | REALITY | @Capoit | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @IBv2ray | SE🇸🇪 | 0️⃣4️⃣"
             ],
@@ -165,7 +165,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Capoit | DE🇩🇪 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @Capoit | DE🇩🇪 | 0️⃣2️⃣",
             "type": "vless",
             "server": "168.119.229.200",
             "server_port": 443,
