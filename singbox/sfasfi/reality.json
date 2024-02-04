@@ -115,8 +115,7 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | REALITY | @V2pedia | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | REALITY | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @proxy_mtm | DE🇩🇪 | 0️⃣4️⃣",
+                "رایگان | REALITY | @v2ray1_ng | DE🇩🇪 | 0️⃣5️⃣",
                 "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣7️⃣"
             ],
@@ -129,8 +128,7 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | REALITY | @V2pedia | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | REALITY | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @proxy_mtm | DE🇩🇪 | 0️⃣4️⃣",
+                "رایگان | REALITY | @v2ray1_ng | DE🇩🇪 | 0️⃣5️⃣",
                 "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -183,35 +181,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣2️⃣",
-            "type": "vless",
-            "server": "49.12.1.201",
-            "server_port": 443,
-            "uuid": "7249fb55-bcb6-4527-832e-0d55d118ae51",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "github.io",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "8xZnlUGc9S8Y7N9VIIA4watibDxTX0hNVLGjvXtrSVQ",
-                    "short_id": "93329681be8b7872"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @proxy_mtm | DE🇩🇪 | 0️⃣4️⃣",
+            "tag": "رایگان | REALITY | @v2ray1_ng | DE🇩🇪 | 0️⃣5️⃣",
             "type": "vless",
             "server": "128.140.36.96",
             "server_port": 443,
