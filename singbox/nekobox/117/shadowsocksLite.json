@@ -123,9 +123,8 @@
                 "رایگان | SS | @kingofilter | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | SS | @kingofilter | CA🇨🇦 | 0️⃣3️⃣",
-                "رایگان | SS | @ROMAX_VPN | JP🇯🇵 | 0️⃣1️⃣",
-                "رایگان | SS | @ROMAX_VPN | RU🇷🇺 | 0️⃣2️⃣",
-                "رایگان | SS | @ROMAX_VPN | FI🇫🇮 | 0️⃣3️⃣"
+                "رایگان | SS | @ROMAX_VPN | RU🇷🇺 | 0️⃣1️⃣",
+                "رایگان | SS | @ROMAX_VPN | FI🇫🇮 | 0️⃣2️⃣"
             ]
         },
         {
@@ -150,9 +149,8 @@
                 "رایگان | SS | @kingofilter | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | SS | @kingofilter | CA🇨🇦 | 0️⃣3️⃣",
-                "رایگان | SS | @ROMAX_VPN | JP🇯🇵 | 0️⃣1️⃣",
-                "رایگان | SS | @ROMAX_VPN | RU🇷🇺 | 0️⃣2️⃣",
-                "رایگان | SS | @ROMAX_VPN | FI🇫🇮 | 0️⃣3️⃣"
+                "رایگان | SS | @ROMAX_VPN | RU🇷🇺 | 0️⃣1️⃣",
+                "رایگان | SS | @ROMAX_VPN | FI🇫🇮 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -339,17 +337,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @ROMAX_VPN | JP🇯🇵 | 0️⃣1️⃣",
-            "type": "shadowsocks",
-            "server": "13.112.10.231",
-            "server_port": 443,
-            "method": "aes-256-cfb",
-            "password": "amazonskr05",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @ROMAX_VPN | RU🇷🇺 | 0️⃣2️⃣",
+            "tag": "رایگان | SS | @ROMAX_VPN | RU🇷🇺 | 0️⃣1️⃣",
             "type": "shadowsocks",
             "server": "94.131.121.130",
             "server_port": 49845,
@@ -359,7 +347,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @ROMAX_VPN | FI🇫🇮 | 0️⃣3️⃣",
+            "tag": "رایگان | SS | @ROMAX_VPN | FI🇫🇮 | 0️⃣2️⃣",
             "type": "shadowsocks",
             "server": "45.159.249.7",
             "server_port": 31803,
