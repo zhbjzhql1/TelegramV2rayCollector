@@ -106,38 +106,17 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
-                "SG🇸🇬",
-                "TR🇹🇷",
-                "DE🇩🇪"
+                "DE🇩🇪",
+                "TR🇹🇷"
             ]
         },
         {
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @ipV2Ray | SG🇸🇬 | 0️⃣1️⃣",
-                "رایگان | REALITY | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣8️⃣",
-                "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "SG🇸🇬",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | REALITY | @ipV2Ray | SG🇸🇬 | 0️⃣1️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "TR🇹🇷",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | REALITY | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣8️⃣"
+                "رایگان | REALITY | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣4️⃣",
+                "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | REALITY | @V2rayCollectorDonate | TR🇹🇷 | 1️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -147,6 +126,7 @@
             "tag": "DE🇩🇪",
             "type": "urltest",
             "outbounds": [
+                "رایگان | REALITY | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣4️⃣",
                 "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -154,46 +134,21 @@
             "tolerance": 50
         },
         {
-            "tag": "رایگان | REALITY | @ipV2Ray | SG🇸🇬 | 0️⃣1️⃣",
-            "type": "vless",
-            "server": "15.235.143.146",
-            "server_port": 443,
-            "uuid": "392203cd-27c0-426d-88be-5a5ec1cf7b78",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "bugarbahagia.com",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "vb5EKWNuql1-jsROMRQaAfhqNOeY2ajFPJJUz15yNHo",
-                    "short_id": "97713807"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@ipV2Ray",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
+            "tag": "TR🇹🇷",
+            "type": "urltest",
+            "outbounds": [
+                "رایگان | REALITY | @V2rayCollectorDonate | TR🇹🇷 | 1️⃣2️⃣"
+            ],
+            "url": "https:\/\/www.gstatic.com\/generate_204",
+            "interval": "5m",
+            "tolerance": 50
         },
         {
-            "tag": "رایگان | REALITY | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣8️⃣",
+            "tag": "رایگان | REALITY | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣4️⃣",
             "type": "vless",
-            "server": "193.124.46.68",
+            "server": "5.75.196.185",
             "server_port": 443,
-            "uuid": "abce0f73-f9df-450f-8c04-bb091080bc9e",
+            "uuid": "0acf46b6-fc2b-4f73-a936-81285f5ed7e4",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -203,16 +158,16 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "www.sciencedirect.com",
+                "server_name": "www.zula.ir",
                 "insecure": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "random"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "ihyTs51u6z63GEvubkvH30ySgk3Vi3hV0b6fVmZJPF0",
-                    "short_id": "27fd55f5"
+                    "public_key": "tVVmkXcGLwT2v9vc-m2388mc7z6J8GDyy8gYUe1MhV4",
+                    "short_id": "d035a4e345793f9b"
                 }
             }
         },
@@ -241,6 +196,34 @@
                     "enabled": true,
                     "public_key": "UDABcxpKzAYkuyE4pmST0OSzEUJpQNuSgYIKcgppeh8",
                     "short_id": "d73382b02fa94fc2"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @V2rayCollectorDonate | TR🇹🇷 | 1️⃣2️⃣",
+            "type": "vless",
+            "server": "193.124.46.68",
+            "server_port": 443,
+            "uuid": "abce0f73-f9df-450f-8c04-bb091080bc9e",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.sciencedirect.com",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "random"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "ihyTs51u6z63GEvubkvH30ySgk3Vi3hV0b6fVmZJPF0",
+                    "short_id": "27fd55f5"
                 }
             }
         },
