@@ -114,7 +114,6 @@
                 "FR🇫🇷",
                 "CA🇨🇦",
                 "AT🇦🇹",
-                "CN🇨🇳",
                 "SE🇸🇪",
                 "NL🇳🇱"
             ]
@@ -142,9 +141,9 @@
                 "رایگان | SS | @OutlineVpnOfficial | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | AT🇦🇹 | 0️⃣4️⃣",
-                "رایگان | SS | @yaney_01 | CN🇨🇳 | 0️⃣1️⃣",
                 "رایگان | SS | @proxy_mtm | SE🇸🇪 | 0️⃣1️⃣",
                 "رایگان | SS | @proxy_mtm | SE🇸🇪 | 0️⃣2️⃣",
+                "رایگان | SS | @proxy_mtm | SE🇸🇪 | 0️⃣3️⃣",
                 "رایگان | SS | @kingofilter | NL🇳🇱 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -243,21 +242,12 @@
             "tolerance": 50
         },
         {
-            "tag": "CN🇨🇳",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | SS | @yaney_01 | CN🇨🇳 | 0️⃣1️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
             "tag": "SE🇸🇪",
             "type": "urltest",
             "outbounds": [
                 "رایگان | SS | @proxy_mtm | SE🇸🇪 | 0️⃣1️⃣",
-                "رایگان | SS | @proxy_mtm | SE🇸🇪 | 0️⃣2️⃣"
+                "رایگان | SS | @proxy_mtm | SE🇸🇪 | 0️⃣2️⃣",
+                "رایگان | SS | @proxy_mtm | SE🇸🇪 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -464,16 +454,6 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @yaney_01 | CN🇨🇳 | 0️⃣1️⃣",
-            "type": "shadowsocks",
-            "server": "110.42.99.55",
-            "server_port": 1020,
-            "method": "aes-128-gcm",
-            "password": "r",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
             "tag": "رایگان | SS | @proxy_mtm | SE🇸🇪 | 0️⃣1️⃣",
             "type": "shadowsocks",
             "server": "16.171.15.83",
@@ -490,6 +470,16 @@
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
             "password": "Y3IEvd1g51vbGJViyT5LJdoIKLk5\/tb0u247vGMvjDg=",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @proxy_mtm | SE🇸🇪 | 0️⃣3️⃣",
+            "type": "shadowsocks",
+            "server": "13.48.44.73",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "V2xEMpwXjvy41q8FjFtcffVpbKYGfbHi0qPlEJIgj7E=",
             "plugin": "",
             "plugin_opts": ""
         },
