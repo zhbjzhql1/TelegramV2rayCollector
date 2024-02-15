@@ -119,7 +119,8 @@
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | RU🇷🇺 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣3️⃣",
-                "رایگان | SS | @VmessProtocol | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | SS | @VmessProtocol | FR🇫🇷 | 0️⃣4️⃣",
+                "رایگان | SS | @VmessProtocol | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | CA🇨🇦 | 0️⃣3️⃣",
@@ -147,7 +148,8 @@
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | RU🇷🇺 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣3️⃣",
-                "رایگان | SS | @VmessProtocol | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | SS | @VmessProtocol | FR🇫🇷 | 0️⃣4️⃣",
+                "رایگان | SS | @VmessProtocol | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | CA🇨🇦 | 0️⃣3️⃣",
@@ -256,7 +258,17 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @VmessProtocol | US🇺🇸 | 0️⃣4️⃣",
+            "tag": "رایگان | SS | @VmessProtocol | FR🇫🇷 | 0️⃣4️⃣",
+            "type": "shadowsocks",
+            "server": "94.131.9.42",
+            "server_port": 57456,
+            "method": "chacha20-ietf-poly1305",
+            "password": "afa22bb1050134b8",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @VmessProtocol | US🇺🇸 | 0️⃣5️⃣",
             "type": "shadowsocks",
             "server": "104.167.197.23",
             "server_port": 57456,
