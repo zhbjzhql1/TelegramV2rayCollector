@@ -121,9 +121,9 @@
                 "رایگان | REALITY | @ipV2Ray | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | REALITY | @v2ray1_ng | NL🇳🇱 | 0️⃣7️⃣",
                 "رایگان | REALITY | @TVCminer | NL🇳🇱 | 0️⃣1️⃣",
-                "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣5️⃣",
+                "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣4️⃣",
+                "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣6️⃣",
                 "رایگان | REALITY | @FalconPolV2rayNG | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @v2ray_swhil | DE🇩🇪 | 0️⃣6️⃣",
                 "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣"
@@ -148,9 +148,9 @@
             "tag": "DE🇩🇪",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣5️⃣",
+                "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣4️⃣",
+                "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣6️⃣",
                 "رایگان | REALITY | @FalconPolV2rayNG | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @v2ray_swhil | DE🇩🇪 | 0️⃣6️⃣",
                 "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣"
@@ -258,7 +258,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣2️⃣",
             "type": "vless",
             "server": "49.13.133.229",
             "server_port": 443,
@@ -293,7 +293,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣3️⃣",
+            "tag": "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣4️⃣",
             "type": "vless",
             "server": "142.132.164.116",
             "server_port": 443,
@@ -328,7 +328,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣5️⃣",
+            "tag": "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣6️⃣",
             "type": "vless",
             "server": "128.140.89.49",
             "server_port": 443,
