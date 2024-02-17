@@ -110,9 +110,11 @@
                 "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣6️⃣",
                 "رایگان | REALITY | @FalconPolV2rayNG | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | REALITY | @forwardv2ray | RU🇷🇺 | 0️⃣5️⃣",
+                "رایگان | REALITY | @forwardv2ray | NL🇳🇱 | 0️⃣3️⃣",
+                "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣4️⃣",
                 "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @TVCminer | FI🇫🇮 | 0️⃣3️⃣"
+                "رایگان | REALITY | @TVCminer | FI🇫🇮 | 0️⃣3️⃣",
+                "رایگان | REALITY | @TVCminer | FI🇫🇮 | 0️⃣4️⃣"
             ]
         },
         {
@@ -123,9 +125,11 @@
                 "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣6️⃣",
                 "رایگان | REALITY | @FalconPolV2rayNG | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | REALITY | @forwardv2ray | RU🇷🇺 | 0️⃣5️⃣",
+                "رایگان | REALITY | @forwardv2ray | NL🇳🇱 | 0️⃣3️⃣",
+                "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣4️⃣",
                 "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @TVCminer | FI🇫🇮 | 0️⃣3️⃣"
+                "رایگان | REALITY | @TVCminer | FI🇫🇮 | 0️⃣3️⃣",
+                "رایگان | REALITY | @TVCminer | FI🇫🇮 | 0️⃣4️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -272,11 +276,11 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @forwardv2ray | RU🇷🇺 | 0️⃣5️⃣",
+            "tag": "رایگان | REALITY | @forwardv2ray | NL🇳🇱 | 0️⃣3️⃣",
             "type": "vless",
-            "server": "147.45.78.116",
-            "server_port": 2053,
-            "uuid": "2ae9b344-3cb6-4213-804b-5d2b68db528c",
+            "server": "134.209.198.114",
+            "server_port": 443,
+            "uuid": "5c0bdba7-615a-49a6-8f1d-ef9f5bd7f4b2",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -286,21 +290,56 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "discordapp.com",
+                "server_name": "*.cloudflare.com",
                 "insecure": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "firefox"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
-                    "short_id": ""
+                    "public_key": "ujw25U9P1KLJKd2epL3su6q06eYo8U0X4myDLh7ScTw",
+                    "short_id": "101a0604"
                 }
             },
             "transport": {
                 "type": "grpc",
-                "service_name": "xyz",
+                "service_name": "@ipV2Ray",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣4️⃣",
+            "type": "vless",
+            "server": "49.12.72.62",
+            "server_port": 443,
+            "uuid": "b7c9d0ac-9ad2-4f19-a7af-4e5929a3409c",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "*.wearenimble.nl",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "pPpTgNj1bPnJ6cL_l3nSPacY6Bl2R2uctUi_ULZ0iR0",
+                    "short_id": "0d83afe9"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@ipV2Ray",
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
@@ -336,6 +375,41 @@
         },
         {
             "tag": "رایگان | REALITY | @TVCminer | FI🇫🇮 | 0️⃣3️⃣",
+            "type": "vless",
+            "server": "37.27.24.220",
+            "server_port": 25365,
+            "uuid": "35529d09-bc2a-47bf-a8bc-65703cd95247",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "sourceforge.net",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Z8VGv2kPcxu7pW1wXRW8lnpPq19TobF9YKrdlW3EBlU",
+                    "short_id": "fc790928"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@ZEDMODEON-@ZEDMODEON-@ZEDMODEON",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @TVCminer | FI🇫🇮 | 0️⃣4️⃣",
             "type": "vless",
             "server": "65.109.193.181",
             "server_port": 52195,
