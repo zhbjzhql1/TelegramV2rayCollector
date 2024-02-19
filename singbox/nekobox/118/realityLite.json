@@ -112,9 +112,9 @@
                 "URL-TEST | رایگان",
                 "رایگان | REALITY | @NIM_VPN_ir | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | REALITY | @FalconPolV2rayNG | DE🇩🇪 | 0️⃣6️⃣",
-                "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @V2RayTz | NL🇳🇱 | 0️⃣3️⃣",
-                "رایگان | REALITY | @FreakConfig | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣3️⃣",
+                "رایگان | REALITY | @V2RayTz | NL🇳🇱 | 0️⃣5️⃣",
+                "رایگان | REALITY | @FreakConfig | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣"
             ]
         },
@@ -124,9 +124,9 @@
             "outbounds": [
                 "رایگان | REALITY | @NIM_VPN_ir | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | REALITY | @FalconPolV2rayNG | DE🇩🇪 | 0️⃣6️⃣",
-                "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @V2RayTz | NL🇳🇱 | 0️⃣3️⃣",
-                "رایگان | REALITY | @FreakConfig | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣3️⃣",
+                "رایگان | REALITY | @V2RayTz | NL🇳🇱 | 0️⃣5️⃣",
+                "رایگان | REALITY | @FreakConfig | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -197,7 +197,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣3️⃣",
             "type": "vless",
             "server": "195.201.0.124",
             "server_port": 443,
@@ -232,7 +232,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @V2RayTz | NL🇳🇱 | 0️⃣3️⃣",
+            "tag": "رایگان | REALITY | @V2RayTz | NL🇳🇱 | 0️⃣5️⃣",
             "type": "vless",
             "server": "188.166.31.128",
             "server_port": 443,
@@ -267,7 +267,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @FreakConfig | DE🇩🇪 | 0️⃣2️⃣",
+            "tag": "رایگان | REALITY | @FreakConfig | DE🇩🇪 | 0️⃣3️⃣",
             "type": "vless",
             "server": "49.13.69.46",
             "server_port": 56078,
