@@ -113,7 +113,7 @@
                 "رایگان | REALITY | @ipV2Ray | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | REALITY | @azadi_az_inja_migzare | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | REALITY | @FalconPolV2rayNG | DE🇩🇪 | 0️⃣4️⃣",
-                "رایگان | REALITY | @v2ray_swhil | FI🇫🇮 | 0️⃣1️⃣",
+                "رایگان | REALITY | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣"
             ]
         },
@@ -124,7 +124,7 @@
                 "رایگان | REALITY | @ipV2Ray | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | REALITY | @azadi_az_inja_migzare | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | REALITY | @FalconPolV2rayNG | DE🇩🇪 | 0️⃣4️⃣",
-                "رایگان | REALITY | @v2ray_swhil | FI🇫🇮 | 0️⃣1️⃣",
+                "رایگان | REALITY | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -230,11 +230,11 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @v2ray_swhil | FI🇫🇮 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣",
             "type": "vless",
-            "server": "Finland.titaniom.com",
-            "server_port": 2087,
-            "uuid": "fafcd6a9-07b2-4185-a4e8-a2e5abf8035c",
+            "server": "143.110.169.55",
+            "server_port": 40987,
+            "uuid": "f93405f5-b64f-40ba-a4da-140b994d511f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -244,7 +244,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "www.greenpepper.ir",
+                "server_name": "*.sourceforge.net",
                 "insecure": false,
                 "utls": {
                     "enabled": true,
@@ -252,16 +252,9 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
-                    "short_id": ""
+                    "public_key": "sO6z1TtkOVNB1lhlsqoBj6lsR_0IyEsfWTXj-YXlCHQ",
+                    "short_id": "d3043362"
                 }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "Telegram:@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official,@Titaniom_Official",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {
