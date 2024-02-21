@@ -112,7 +112,7 @@
                 "رایگان | REALITY | @FalconPolV2rayNG | DE🇩🇪 | 0️⃣4️⃣",
                 "رایگان | REALITY | @v2ray_swhil | FI🇫🇮 | 0️⃣1️⃣",
                 "رایگان | REALITY | @v2ray_swhil | GB🇬🇧 | 0️⃣3️⃣",
-                "رایگان | REALITY | @DailyV2RY | DE🇩🇪 | 0️⃣5️⃣",
+                "رایگان | REALITY | @forwardv2ray | IL🇮🇱 | 0️⃣1️⃣",
                 "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣"
             ]
         },
@@ -126,7 +126,7 @@
                 "رایگان | REALITY | @FalconPolV2rayNG | DE🇩🇪 | 0️⃣4️⃣",
                 "رایگان | REALITY | @v2ray_swhil | FI🇫🇮 | 0️⃣1️⃣",
                 "رایگان | REALITY | @v2ray_swhil | GB🇬🇧 | 0️⃣3️⃣",
-                "رایگان | REALITY | @DailyV2RY | DE🇩🇪 | 0️⃣5️⃣",
+                "رایگان | REALITY | @forwardv2ray | IL🇮🇱 | 0️⃣1️⃣",
                 "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -337,11 +337,11 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @DailyV2RY | DE🇩🇪 | 0️⃣5️⃣",
+            "tag": "رایگان | REALITY | @forwardv2ray | IL🇮🇱 | 0️⃣1️⃣",
             "type": "vless",
-            "server": "zedmodeon-channel-zedmodeon-join-zedmodeon-zedmodeon-zedmodeon.tozedmodeon.store",
-            "server_port": 25365,
-            "uuid": "fe4fa32d-377c-4577-86eb-8e9a81d08cdf",
+            "server": "193.168.173.39",
+            "server_port": 2083,
+            "uuid": "3126bba4-f4d2-4166-9d4e-019cdae32aec",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -351,16 +351,16 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "sourceforge.net",
+                "server_name": "mega.io",
                 "insecure": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "firefox"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "t7pJFOkjW5P8PPC4JpV2H97JC1aVwN5-qH2oMygORVw",
-                    "short_id": "fa1007c3"
+                    "public_key": "CwHV1IcTZRyY-ny-gj9VFWRv-KiPE_UP_OiKcBfunhw",
+                    "short_id": "90cc7950"
                 }
             }
         },
