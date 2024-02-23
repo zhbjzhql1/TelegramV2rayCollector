@@ -107,7 +107,6 @@
                 "URL-TEST | رایگان",
                 "DE🇩🇪",
                 "GB🇬🇧",
-                "IR🇮🇷",
                 "NL🇳🇱",
                 "LU🇱🇺"
             ]
@@ -119,10 +118,9 @@
                 "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @FalconPolV2rayNG | DE🇩🇪 | 0️⃣5️⃣",
                 "رایگان | REALITY | @Capoit | DE🇩🇪 | 0️⃣5️⃣",
-                "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣5️⃣",
-                "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣6️⃣",
+                "رایگان | REALITY | @kingofilter | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @azadi_az_inja_migzare | GB🇬🇧 | 0️⃣4️⃣",
-                "رایگان | REALITY | @V2rayCollectorDonate | IR🇮🇷 | 0️⃣2️⃣",
                 "رایگان | REALITY | @Capoit | NL🇳🇱 | 0️⃣4️⃣",
                 "رایگان | REALITY | @mehrosaboran | LU🇱🇺 | 0️⃣4️⃣"
             ],
@@ -137,8 +135,8 @@
                 "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @FalconPolV2rayNG | DE🇩🇪 | 0️⃣5️⃣",
                 "رایگان | REALITY | @Capoit | DE🇩🇪 | 0️⃣5️⃣",
-                "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣5️⃣",
-                "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣6️⃣"
+                "رایگان | REALITY | @kingofilter | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -149,16 +147,6 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | REALITY | @azadi_az_inja_migzare | GB🇬🇧 | 0️⃣4️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "IR🇮🇷",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | REALITY | @V2rayCollectorDonate | IR🇮🇷 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -290,35 +278,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣5️⃣",
-            "type": "vless",
-            "server": "51.75.86.63",
-            "server_port": 443,
-            "uuid": "974d4696-a900-4d44-b627-9833b8a7b27a",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "flightradar24.com",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "edge"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "UDABcxpKzAYkuyE4pmST0OSzEUJpQNuSgYIKcgppeh8",
-                    "short_id": "d73382b02fa94fc2"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣6️⃣",
+            "tag": "رایگان | REALITY | @kingofilter | DE🇩🇪 | 0️⃣2️⃣",
             "type": "vless",
             "server": "157.90.161.70",
             "server_port": 443,
@@ -353,6 +313,34 @@
             }
         },
         {
+            "tag": "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣",
+            "type": "vless",
+            "server": "51.75.86.63",
+            "server_port": 443,
+            "uuid": "974d4696-a900-4d44-b627-9833b8a7b27a",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "flightradar24.com",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "edge"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "UDABcxpKzAYkuyE4pmST0OSzEUJpQNuSgYIKcgppeh8",
+                    "short_id": "d73382b02fa94fc2"
+                }
+            }
+        },
+        {
             "tag": "رایگان | REALITY | @azadi_az_inja_migzare | GB🇬🇧 | 0️⃣4️⃣",
             "type": "vless",
             "server": "51.195.148.69",
@@ -377,34 +365,6 @@
                     "enabled": true,
                     "public_key": "lA6wn3tUYgfJZkRzS29e1hJo38UXrL5ko6v6oQFIzB0",
                     "short_id": "62f886757cb2e45e"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @V2rayCollectorDonate | IR🇮🇷 | 0️⃣2️⃣",
-            "type": "vless",
-            "server": "188.121.97.1",
-            "server_port": 443,
-            "uuid": "864462e2-ebcc-464f-9004-36330ac3c824",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "telewebion.ir",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "lJNojEJZOuS4q7sIuvh8hXbfA1OQDNB2VYlobAy6mng",
-                    "short_id": "f5c9bd4c"
                 }
             }
         },
