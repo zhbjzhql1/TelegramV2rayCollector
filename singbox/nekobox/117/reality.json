@@ -115,7 +115,7 @@
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @FalconPolV2rayNG | DE🇩🇪 | 0️⃣5️⃣",
                 "رایگان | REALITY | @Capoit | DE🇩🇪 | 0️⃣5️⃣",
                 "رایگان | REALITY | @kingofilter | DE🇩🇪 | 0️⃣2️⃣",
@@ -133,7 +133,7 @@
             "tag": "DE🇩🇪",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @FalconPolV2rayNG | DE🇩🇪 | 0️⃣5️⃣",
                 "رایگان | REALITY | @Capoit | DE🇩🇪 | 0️⃣5️⃣",
                 "رایگان | REALITY | @kingofilter | DE🇩🇪 | 0️⃣2️⃣",
@@ -175,7 +175,7 @@
             "tolerance": 50
         },
         {
-            "tag": "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣2️⃣",
             "type": "vless",
             "server": "49.13.11.43",
             "server_port": 443,
