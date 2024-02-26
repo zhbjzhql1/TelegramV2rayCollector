@@ -112,9 +112,9 @@
                 "URL-TEST | رایگان",
                 "رایگان | REALITY | @ipV2Ray | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | REALITY | @V2pedia | GB🇬🇧 | 0️⃣1️⃣",
-                "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | REALITY | @ConfigsHUB | FI🇫🇮 | 0️⃣1️⃣",
-                "رایگان | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣4️⃣",
+                "رایگان | REALITY | @proxy_mtm | FI🇫🇮 | 0️⃣2️⃣",
+                "رایگان | REALITY | @proxy_mtm | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣"
             ]
         },
@@ -124,9 +124,9 @@
             "outbounds": [
                 "رایگان | REALITY | @ipV2Ray | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | REALITY | @V2pedia | GB🇬🇧 | 0️⃣1️⃣",
-                "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | REALITY | @ConfigsHUB | FI🇫🇮 | 0️⃣1️⃣",
-                "رایگان | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣4️⃣",
+                "رایگان | REALITY | @proxy_mtm | FI🇫🇮 | 0️⃣2️⃣",
+                "رایگان | REALITY | @proxy_mtm | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -204,7 +204,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣3️⃣",
+            "tag": "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣4️⃣",
             "type": "vless",
             "server": "128.140.80.181",
             "server_port": 443,
@@ -239,7 +239,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @ConfigsHUB | FI🇫🇮 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @proxy_mtm | FI🇫🇮 | 0️⃣2️⃣",
             "type": "vless",
             "server": "135.181.153.138",
             "server_port": 443,
@@ -274,7 +274,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣2️⃣",
+            "tag": "رایگان | REALITY | @proxy_mtm | DE🇩🇪 | 0️⃣3️⃣",
             "type": "vless",
             "server": "5.75.242.254",
             "server_port": 443,
