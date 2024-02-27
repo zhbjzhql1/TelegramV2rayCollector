@@ -114,7 +114,7 @@
                 "GB🇬🇧",
                 "FR🇫🇷",
                 "DE🇩🇪",
-                "JP🇯🇵"
+                "HK🇭🇰"
             ]
         },
         {
@@ -132,10 +132,7 @@
                 "رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣4️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣6️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣7️⃣",
-                "رایگان | TROJAN | @forwardv2ray | JP🇯🇵 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @forwardv2ray | JP🇯🇵 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @forwardv2ray | JP🇯🇵 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @forwardv2ray | JP🇯🇵 | 0️⃣4️⃣"
+                "رایگان | TROJAN | @oneclickvpnkeys | HK🇭🇰 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -189,13 +186,10 @@
             "tolerance": 50
         },
         {
-            "tag": "JP🇯🇵",
+            "tag": "HK🇭🇰",
             "type": "urltest",
             "outbounds": [
-                "رایگان | TROJAN | @forwardv2ray | JP🇯🇵 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @forwardv2ray | JP🇯🇵 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @forwardv2ray | JP🇯🇵 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @forwardv2ray | JP🇯🇵 | 0️⃣4️⃣"
+                "رایگان | TROJAN | @oneclickvpnkeys | HK🇭🇰 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -433,51 +427,24 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @forwardv2ray | JP🇯🇵 | 0️⃣1️⃣",
+            "tag": "رایگان | TROJAN | @oneclickvpnkeys | HK🇭🇰 | 0️⃣1️⃣",
             "type": "trojan",
-            "server": "hinet.mjt000.com",
+            "server": "220.246.88.197",
             "server_port": 443,
-            "password": "c032c3f7-d64e-4123-9909-94e8d4435a08",
+            "password": "293ec37c942a47938231d849a5dca9bd",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "رایگان | TROJAN | @forwardv2ray | JP🇯🇵 | 0️⃣2️⃣",
-            "type": "trojan",
-            "server": "waphk.mjt000.com",
-            "server_port": 443,
-            "password": "c032c3f7-d64e-4123-9909-94e8d4435a08",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "رایگان | TROJAN | @forwardv2ray | JP🇯🇵 | 0️⃣3️⃣",
-            "type": "trojan",
-            "server": "usla.mjt000.com",
-            "server_port": 443,
-            "password": "c032c3f7-d64e-4123-9909-94e8d4435a08",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "رایگان | TROJAN | @forwardv2ray | JP🇯🇵 | 0️⃣4️⃣",
-            "type": "trojan",
-            "server": "kh.mjt000.com",
-            "server_port": 443,
-            "password": "c032c3f7-d64e-4123-9909-94e8d4435a08",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.gpt123.one",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
             }
         },
         {
