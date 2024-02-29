@@ -121,7 +121,7 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | REALITY | @EliV2ray | NL🇳🇱 | 0️⃣2️⃣",
-                "رایگان | REALITY | @ROMAX_VPN | NL🇳🇱 | 0️⃣2️⃣",
+                "رایگان | REALITY | @ROMAX_VPN | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | REALITY | @Lockey_vpn | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | REALITY | @FalconPolV2rayNG | DE🇩🇪 | 0️⃣6️⃣",
                 "رایگان | REALITY | @ShadowProxy66 | DE🇩🇪 | 0️⃣4️⃣",
@@ -139,7 +139,7 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | REALITY | @EliV2ray | NL🇳🇱 | 0️⃣2️⃣",
-                "رایگان | REALITY | @ROMAX_VPN | NL🇳🇱 | 0️⃣2️⃣"
+                "رایگان | REALITY | @ROMAX_VPN | NL🇳🇱 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -208,7 +208,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @ROMAX_VPN | NL🇳🇱 | 0️⃣2️⃣",
+            "tag": "رایگان | REALITY | @ROMAX_VPN | NL🇳🇱 | 0️⃣1️⃣",
             "type": "vless",
             "server": "77.246.99.239",
             "server_port": 443,
