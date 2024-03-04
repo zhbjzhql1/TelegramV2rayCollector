@@ -112,7 +112,6 @@
                 "رایگان | REALITY | @Lockey_vpn | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | REALITY | @v2rayNG_Matsuri | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | REALITY | @v2rayNG_Matsuri | DE🇩🇪 | 0️⃣6️⃣",
-                "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @ROMAX_VPN | NL🇳🇱 | 0️⃣2️⃣"
             ]
         },
@@ -127,7 +126,6 @@
                 "رایگان | REALITY | @Lockey_vpn | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | REALITY | @v2rayNG_Matsuri | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | REALITY | @v2rayNG_Matsuri | DE🇩🇪 | 0️⃣6️⃣",
-                "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @ROMAX_VPN | NL🇳🇱 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -355,34 +353,6 @@
                     "enabled": true,
                     "public_key": "SUCJ94wKPUdfkBJw8VnANql6kevueb6EyA71C3AfKFs",
                     "short_id": "bf44fc2c"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣1️⃣",
-            "type": "vless",
-            "server": "159.69.29.156",
-            "server_port": 443,
-            "uuid": "cac5e749-1da9-4108-9b4e-813b0fc944f1",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "*.*.fierline.link",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "ParA2pzqfmmbZvTdVISNFfeqkuhfdrT_r1h1H8sD5w8",
-                    "short_id": "6ffe56d7"
                 }
             }
         },
