@@ -114,6 +114,7 @@
                 "DE🇩🇪",
                 "SE🇸🇪",
                 "GB🇬🇧",
+                "RU🇷🇺",
                 "PL🇵🇱",
                 "NL🇳🇱",
                 "KR🇰🇷"
@@ -124,16 +125,19 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | SS | @DeamNet_Proxy | FR🇫🇷 | 0️⃣1️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | FR🇫🇷 | 0️⃣3️⃣",
+                "رایگان | SS | @OutlineVpnOfficial | FR🇫🇷 | 0️⃣4️⃣",
                 "رایگان | SS | @DeamNet_Proxy | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | SS | @ROMAX_VPN | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | SS | @VmessProtocol | SE🇸🇪 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣2️⃣",
+                "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣2️⃣",
+                "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣3️⃣",
                 "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @ROMAX_VPN | GB🇬🇧 | 0️⃣1️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣1️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | NL🇳🇱 | 0️⃣2️⃣",
+                "رایگان | SS | @OutlineVpnOfficial | RU🇷🇺 | 0️⃣1️⃣",
+                "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣2️⃣",
+                "رایگان | SS | @OutlineVpnOfficial | NL🇳🇱 | 0️⃣3️⃣",
                 "رایگان | SS | @ROMAX_VPN | KR🇰🇷 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -145,7 +149,7 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | SS | @DeamNet_Proxy | FR🇫🇷 | 0️⃣1️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | FR🇫🇷 | 0️⃣3️⃣"
+                "رایگان | SS | @OutlineVpnOfficial | FR🇫🇷 | 0️⃣4️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -177,9 +181,21 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣2️⃣",
+                "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣2️⃣",
+                "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣3️⃣",
                 "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @ROMAX_VPN | GB🇬🇧 | 0️⃣1️⃣"
+            ],
+            "url": "https:\/\/www.gstatic.com\/generate_204",
+            "interval": "5m",
+            "tolerance": 50
+        },
+        {
+            "tag": "RU🇷🇺",
+            "type": "urltest",
+            "outbounds": [
+                "رایگان | SS | @OutlineVpnOfficial | RU🇷🇺 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -189,7 +205,7 @@
             "tag": "PL🇵🇱",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣1️⃣"
+                "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -199,7 +215,7 @@
             "tag": "NL🇳🇱",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @OutlineVpnOfficial | NL🇳🇱 | 0️⃣2️⃣"
+                "رایگان | SS | @OutlineVpnOfficial | NL🇳🇱 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -226,7 +242,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @OutlineVpnOfficial | FR🇫🇷 | 0️⃣3️⃣",
+            "tag": "رایگان | SS | @OutlineVpnOfficial | FR🇫🇷 | 0️⃣4️⃣",
             "type": "shadowsocks",
             "server": "149.202.82.172",
             "server_port": 5600,
@@ -276,12 +292,32 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣2️⃣",
+            "tag": "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣",
             "type": "shadowsocks",
-            "server": "series-a2-mec.samanehha.co",
+            "server": "series-a2-me.samanehha.co",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
-            "password": "u17T3BvpYaaiuW2c",
+            "password": "Bog0ELmMM9DSxDdQ",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣2️⃣",
+            "type": "shadowsocks",
+            "server": "series-a1.samanehha.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "W74XFALLLuw6m5IA",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣3️⃣",
+            "type": "shadowsocks",
+            "server": "series-a2.samanehha.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "mps3FwmDjLrWaOVg",
             "plugin": "",
             "plugin_opts": ""
         },
@@ -306,7 +342,17 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣1️⃣",
+            "tag": "رایگان | SS | @OutlineVpnOfficial | RU🇷🇺 | 0️⃣1️⃣",
+            "type": "shadowsocks",
+            "server": "62.113.114.116",
+            "server_port": 42320,
+            "method": "chacha20-ietf-poly1305",
+            "password": "dhXDSrO3HnkhOZWxNOrvII",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣2️⃣",
             "type": "shadowsocks",
             "server": "54.36.174.181",
             "server_port": 9102,
@@ -316,7 +362,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @OutlineVpnOfficial | NL🇳🇱 | 0️⃣2️⃣",
+            "tag": "رایگان | SS | @OutlineVpnOfficial | NL🇳🇱 | 0️⃣3️⃣",
             "type": "shadowsocks",
             "server": "nl-ss.ipracevpn.com",
             "server_port": 2443,
