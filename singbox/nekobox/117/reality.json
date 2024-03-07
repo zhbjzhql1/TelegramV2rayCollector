@@ -118,7 +118,7 @@
                 "رایگان | REALITY | @ipV2Ray | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @ipV2Ray | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @v2rayngvpn | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | REALITY | @free1_vpn | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @FalconPolV2rayNG | NL🇳🇱 | 0️⃣3️⃣",
                 "رایگان | REALITY | @ROMAX_VPN | NL🇳🇱 | 0️⃣2️⃣",
                 "رایگان | REALITY | @FAKEOFTVC | TR🇹🇷 | 0️⃣3️⃣"
@@ -135,7 +135,7 @@
                 "رایگان | REALITY | @ipV2Ray | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @ipV2Ray | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @v2rayngvpn | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣1️⃣"
+                "رایگان | REALITY | @free1_vpn | DE🇩🇪 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -303,11 +303,11 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @free1_vpn | DE🇩🇪 | 0️⃣1️⃣",
             "type": "vless",
-            "server": "168.119.117.42",
+            "server": "68.183.79.49",
             "server_port": 443,
-            "uuid": "b2fe22d0-2511-4116-b814-62b0e7509b8b",
+            "uuid": "939f6f91-951f-42b1-b035-314166fd4686",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -317,7 +317,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "*.boundless.link",
+                "server_name": "*.medsolutions.gr",
                 "insecure": false,
                 "utls": {
                     "enabled": true,
@@ -325,8 +325,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "U3DxmKzqU4kZUKCGZjihhjRroSwbaSn-77_VXlq1GWU",
-                    "short_id": "be1f33fc"
+                    "public_key": "E6bDsuyFsDorOm3K0EdQSf06_1DFNXLa1g6_tliNNjY",
+                    "short_id": "ae1ae8df"
                 }
             },
             "transport": {
