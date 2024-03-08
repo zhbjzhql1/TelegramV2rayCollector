@@ -119,9 +119,8 @@
                 "رایگان | SS | @proxy_mtm | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @proxy_mtm | NL🇳🇱 | 0️⃣2️⃣",
                 "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣1️⃣",
-                "رایگان | SS | @ROMAX_VPN | GB🇬🇧 | 0️⃣1️⃣",
-                "رایگان | SS | @ROMAX_VPN | KR🇰🇷 | 0️⃣2️⃣",
-                "رایگان | SS | @ROMAX_VPN | DE🇩🇪 | 0️⃣3️⃣"
+                "رایگان | SS | @ROMAX_VPN | KR🇰🇷 | 0️⃣1️⃣",
+                "رایگان | SS | @ROMAX_VPN | DE🇩🇪 | 0️⃣2️⃣"
             ]
         },
         {
@@ -142,9 +141,8 @@
                 "رایگان | SS | @proxy_mtm | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @proxy_mtm | NL🇳🇱 | 0️⃣2️⃣",
                 "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣1️⃣",
-                "رایگان | SS | @ROMAX_VPN | GB🇬🇧 | 0️⃣1️⃣",
-                "رایگان | SS | @ROMAX_VPN | KR🇰🇷 | 0️⃣2️⃣",
-                "رایگان | SS | @ROMAX_VPN | DE🇩🇪 | 0️⃣3️⃣"
+                "رایگان | SS | @ROMAX_VPN | KR🇰🇷 | 0️⃣1️⃣",
+                "رایگان | SS | @ROMAX_VPN | DE🇩🇪 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -291,17 +289,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @ROMAX_VPN | GB🇬🇧 | 0️⃣1️⃣",
-            "type": "shadowsocks",
-            "server": "18.168.213.181",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "O5APdoqlticuupE1",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @ROMAX_VPN | KR🇰🇷 | 0️⃣2️⃣",
+            "tag": "رایگان | SS | @ROMAX_VPN | KR🇰🇷 | 0️⃣1️⃣",
             "type": "shadowsocks",
             "server": "c001.panda003.net",
             "server_port": 53243,
@@ -311,7 +299,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @ROMAX_VPN | DE🇩🇪 | 0️⃣3️⃣",
+            "tag": "رایگان | SS | @ROMAX_VPN | DE🇩🇪 | 0️⃣2️⃣",
             "type": "shadowsocks",
             "server": "zedmodeon-join-zedmodeon-zedmodeon-zedmodeon-zedmodeon.tozedmodeon.store",
             "server_port": 38818,
