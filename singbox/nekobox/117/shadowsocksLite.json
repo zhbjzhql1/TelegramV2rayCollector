@@ -108,15 +108,13 @@
                 "رایگان | SS | @DeamNet_Proxy | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | SS | @DeamNet_Proxy | FR🇫🇷 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | SG🇸🇬 | 0️⃣1️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | RU🇷🇺 | 0️⃣2️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣3️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | NL🇳🇱 | 0️⃣4️⃣",
-                "رایگان | SS | @forwardv2ray | IE🇮🇪 | 0️⃣1️⃣",
-                "رایگان | SS | @forwardv2ray | IE🇮🇪 | 0️⃣2️⃣",
-                "رایگان | SS | @forwardv2ray | IE🇮🇪 | 0️⃣3️⃣",
-                "رایگان | SS | @ROMAX_VPN | RU🇷🇺 | 0️⃣1️⃣",
-                "رایگان | SS | @ROMAX_VPN | NL🇳🇱 | 0️⃣2️⃣"
+                "رایگان | SS | @OutlineVpnOfficial | RU🇷🇺 | 0️⃣1️⃣",
+                "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣2️⃣",
+                "رایگان | SS | @OutlineVpnOfficial | NL🇳🇱 | 0️⃣3️⃣",
+                "رایگان | SS | @forwardv2ray | TR🇹🇷 | 0️⃣1️⃣",
+                "رایگان | SS | @forwardv2ray | SE🇸🇪 | 0️⃣2️⃣",
+                "رایگان | SS | @forwardv2ray | NL🇳🇱 | 0️⃣3️⃣",
+                "رایگان | SS | @ROMAX_VPN | RU🇷🇺 | 0️⃣1️⃣"
             ]
         },
         {
@@ -126,15 +124,13 @@
                 "رایگان | SS | @DeamNet_Proxy | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | SS | @DeamNet_Proxy | FR🇫🇷 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | SG🇸🇬 | 0️⃣1️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | RU🇷🇺 | 0️⃣2️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣3️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | NL🇳🇱 | 0️⃣4️⃣",
-                "رایگان | SS | @forwardv2ray | IE🇮🇪 | 0️⃣1️⃣",
-                "رایگان | SS | @forwardv2ray | IE🇮🇪 | 0️⃣2️⃣",
-                "رایگان | SS | @forwardv2ray | IE🇮🇪 | 0️⃣3️⃣",
-                "رایگان | SS | @ROMAX_VPN | RU🇷🇺 | 0️⃣1️⃣",
-                "رایگان | SS | @ROMAX_VPN | NL🇳🇱 | 0️⃣2️⃣"
+                "رایگان | SS | @OutlineVpnOfficial | RU🇷🇺 | 0️⃣1️⃣",
+                "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣2️⃣",
+                "رایگان | SS | @OutlineVpnOfficial | NL🇳🇱 | 0️⃣3️⃣",
+                "رایگان | SS | @forwardv2ray | TR🇹🇷 | 0️⃣1️⃣",
+                "رایگان | SS | @forwardv2ray | SE🇸🇪 | 0️⃣2️⃣",
+                "رایگان | SS | @forwardv2ray | NL🇳🇱 | 0️⃣3️⃣",
+                "رایگان | SS | @ROMAX_VPN | RU🇷🇺 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -171,17 +167,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @OutlineVpnOfficial | SG🇸🇬 | 0️⃣1️⃣",
-            "type": "shadowsocks",
-            "server": "sg-ss.ipracevpn.com",
-            "server_port": 2443,
-            "method": "aes-256-gcm",
-            "password": "DvMeY\/S8c3hsSQqrL1aWblaHscEVQ03l5lFgneMx56c=",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @OutlineVpnOfficial | RU🇷🇺 | 0️⃣2️⃣",
+            "tag": "رایگان | SS | @OutlineVpnOfficial | RU🇷🇺 | 0️⃣1️⃣",
             "type": "shadowsocks",
             "server": "62.113.114.116",
             "server_port": 42320,
@@ -191,7 +177,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣3️⃣",
+            "tag": "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣2️⃣",
             "type": "shadowsocks",
             "server": "54.36.174.181",
             "server_port": 9102,
@@ -201,7 +187,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @OutlineVpnOfficial | NL🇳🇱 | 0️⃣4️⃣",
+            "tag": "رایگان | SS | @OutlineVpnOfficial | NL🇳🇱 | 0️⃣3️⃣",
             "type": "shadowsocks",
             "server": "nl-ss.ipracevpn.com",
             "server_port": 2443,
@@ -211,32 +197,32 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @forwardv2ray | IE🇮🇪 | 0️⃣1️⃣",
+            "tag": "رایگان | SS | @forwardv2ray | TR🇹🇷 | 0️⃣1️⃣",
             "type": "shadowsocks",
-            "server": "52.178.199.66",
-            "server_port": 8308,
+            "server": "141.98.118.213",
+            "server_port": 26551,
             "method": "chacha20-ietf-poly1305",
-            "password": "zxH166M3Ggi27kArEX9OGk",
+            "password": "0IDiaxP5YEX3z2xurSdffA",
             "plugin": "",
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @forwardv2ray | IE🇮🇪 | 0️⃣2️⃣",
+            "tag": "رایگان | SS | @forwardv2ray | SE🇸🇪 | 0️⃣2️⃣",
             "type": "shadowsocks",
-            "server": "52.178.196.157",
-            "server_port": 11429,
+            "server": "45.8.147.65",
+            "server_port": 37219,
             "method": "chacha20-ietf-poly1305",
-            "password": "i7CDBphJenDsfdEqcM8yUH",
+            "password": "ETt8vY8HbPwOfk21c3i13h",
             "plugin": "",
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @forwardv2ray | IE🇮🇪 | 0️⃣3️⃣",
+            "tag": "رایگان | SS | @forwardv2ray | NL🇳🇱 | 0️⃣3️⃣",
             "type": "shadowsocks",
-            "server": "52.178.196.34",
-            "server_port": 54559,
+            "server": "94.131.106.6",
+            "server_port": 43743,
             "method": "chacha20-ietf-poly1305",
-            "password": "wP1HHo24lGRUoVTBJwv92o",
+            "password": "5vPNG70j1ZqfEG5ee6aQGW",
             "plugin": "",
             "plugin_opts": ""
         },
@@ -247,16 +233,6 @@
             "server_port": 2352,
             "method": "chacha20-ietf-poly1305",
             "password": "tErM3mZ22YFQspXVwX57xq",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @ROMAX_VPN | NL🇳🇱 | 0️⃣2️⃣",
-            "type": "shadowsocks",
-            "server": "94.131.106.6",
-            "server_port": 43743,
-            "method": "chacha20-ietf-poly1305",
-            "password": "5vPNG70j1ZqfEG5ee6aQGW",
             "plugin": "",
             "plugin_opts": ""
         },
