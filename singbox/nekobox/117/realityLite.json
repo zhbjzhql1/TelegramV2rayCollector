@@ -106,7 +106,7 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "رایگان | REALITY | @FalconPolV2rayNG | NL🇳🇱 | 0️⃣4️⃣",
-                "رایگان | REALITY | @ROMAX_VPN | NL🇳🇱 | 0️⃣4️⃣"
+                "رایگان | REALITY | @ROMAX_VPN | NL🇳🇱 | 0️⃣3️⃣"
             ]
         },
         {
@@ -114,7 +114,7 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | REALITY | @FalconPolV2rayNG | NL🇳🇱 | 0️⃣4️⃣",
-                "رایگان | REALITY | @ROMAX_VPN | NL🇳🇱 | 0️⃣4️⃣"
+                "رایگان | REALITY | @ROMAX_VPN | NL🇳🇱 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -156,7 +156,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @ROMAX_VPN | NL🇳🇱 | 0️⃣4️⃣",
+            "tag": "رایگان | REALITY | @ROMAX_VPN | NL🇳🇱 | 0️⃣3️⃣",
             "type": "vless",
             "server": "77.246.99.239",
             "server_port": 443,
