@@ -108,7 +108,7 @@
                 "رایگان | REALITY | @NIM_VPN_ir | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @v2rayNG_Matsuri | DE🇩🇪 | 0️⃣6️⃣",
                 "رایگان | REALITY | @lrnbymaa | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣1️⃣"
+                "رایگان | REALITY | @forwardv2ray | GB🇬🇧 | 0️⃣2️⃣"
             ]
         },
         {
@@ -118,7 +118,7 @@
                 "رایگان | REALITY | @NIM_VPN_ir | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @v2rayNG_Matsuri | DE🇩🇪 | 0️⃣6️⃣",
                 "رایگان | REALITY | @lrnbymaa | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣1️⃣"
+                "رایگان | REALITY | @forwardv2ray | GB🇬🇧 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -216,11 +216,11 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @forwardv2ray | GB🇬🇧 | 0️⃣2️⃣",
             "type": "vless",
-            "server": "91.107.199.96",
+            "server": "64.227.44.75",
             "server_port": 443,
-            "uuid": "731b6dc7-d0d8-4cc5-a0fb-058250ca94df",
+            "uuid": "9aab567d-c1b9-4a33-9e7c-bba600ac5796",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -230,7 +230,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "*.hetzner.com",
+                "server_name": "dash.cloudflare.com",
                 "insecure": false,
                 "utls": {
                     "enabled": true,
@@ -238,13 +238,13 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "lCzFlKDzMEcuz4bD0Dxj-Bx6qoZZoTU7f-OLZbP42CQ",
-                    "short_id": "c7be06f8"
+                    "public_key": "O5_bdsbHUkQNlWyJ0le3nijjlowhqrhSskVKiulLRwY",
+                    "short_id": "02a37375"
                 }
             },
             "transport": {
                 "type": "grpc",
-                "service_name": "@ipV2Ray",
+                "service_name": "@vpnowl-@vpnowl-@vpnowl-@vpnowl-@vpnowl-@vpnowl-@vpnowl-@vpnowl-@vpnowl-@vpnowl-@vpnowl-@vpnowl-@vpnowl-@vpnowl-@vpnowl-@vpnowl",
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
