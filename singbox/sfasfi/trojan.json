@@ -140,6 +140,7 @@
                 "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣5️⃣",
                 "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣6️⃣",
                 "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣7️⃣",
+                "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @oneclickvpnkeys | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @oneclickvpnkeys | TW🇹🇼 | 0️⃣3️⃣",
                 "رایگان | TROJAN | @oneclickvpnkeys | TW🇹🇼 | 0️⃣4️⃣"
@@ -208,7 +209,8 @@
                 "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣4️⃣",
                 "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣5️⃣",
                 "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣6️⃣",
-                "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣7️⃣"
+                "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣7️⃣",
+                "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -736,6 +738,34 @@
                 "path": "\/t.me\/VmessProtocol",
                 "headers": {
                     "Host": "1-vmessprotocol-channel-join-for-more-likethis.v2rayng.cfd"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣1️⃣",
+            "type": "trojan",
+            "server": "104.24.173.19",
+            "server_port": 443,
+            "password": "09afab13-a23c-4264-9da4-985e3b62b789",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "p.mrproxy.shop",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/tomfCNawNqSxpHShBC1yO",
+                "headers": {
+                    "Host": "h.mrproxy.shop"
                 }
             }
         },
