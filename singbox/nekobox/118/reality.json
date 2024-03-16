@@ -123,11 +123,9 @@
             "outbounds": [
                 "رایگان | REALITY | @ShadowProxy66 | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | REALITY | @v2ray1_ng | NL🇳🇱 | 0️⃣3️⃣",
-                "رایگان | REALITY | @v2ray1_ng | NL🇳🇱 | 0️⃣5️⃣",
-                "رایگان | REALITY | @V2RayTz | FI🇫🇮 | 0️⃣4️⃣",
-                "رایگان | REALITY | @DailyV2RY | RU🇷🇺 | 0️⃣4️⃣",
-                "رایگان | REALITY | @DailyV2RY | TR🇹🇷 | 0️⃣5️⃣",
-                "inbox&type=tcp&flow=xtls-rprx-vision&sni=mail.google.com&sid=3a07dc6f#رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | REALITY | @V2RayTz | FI🇫🇮 | 0️⃣6️⃣",
+                "رایگان | REALITY | @DailyV2RY | RU🇷🇺 | 0️⃣6️⃣",
+                "رایگان | REALITY | @DailyV2RY | TR🇹🇷 | 0️⃣7️⃣",
                 "inbox&type=tcp&headerType=none#رایگان | REALITY | @kiava | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @kingofilter | DE🇩🇪 | 0️⃣2️⃣"
             ],
@@ -140,8 +138,7 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | REALITY | @ShadowProxy66 | NL🇳🇱 | 0️⃣1️⃣",
-                "رایگان | REALITY | @v2ray1_ng | NL🇳🇱 | 0️⃣3️⃣",
-                "رایگان | REALITY | @v2ray1_ng | NL🇳🇱 | 0️⃣5️⃣"
+                "رایگان | REALITY | @v2ray1_ng | NL🇳🇱 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -151,7 +148,7 @@
             "tag": "FI🇫🇮",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @V2RayTz | FI🇫🇮 | 0️⃣4️⃣"
+                "رایگان | REALITY | @V2RayTz | FI🇫🇮 | 0️⃣6️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -161,7 +158,7 @@
             "tag": "RU🇷🇺",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @DailyV2RY | RU🇷🇺 | 0️⃣4️⃣"
+                "رایگان | REALITY | @DailyV2RY | RU🇷🇺 | 0️⃣6️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -171,7 +168,7 @@
             "tag": "TR🇹🇷",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @DailyV2RY | TR🇹🇷 | 0️⃣5️⃣"
+                "رایگان | REALITY | @DailyV2RY | TR🇹🇷 | 0️⃣7️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -181,7 +178,6 @@
             "tag": "DE🇩🇪",
             "type": "urltest",
             "outbounds": [
-                "inbox&type=tcp&flow=xtls-rprx-vision&sni=mail.google.com&sid=3a07dc6f#رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣2️⃣",
                 "inbox&type=tcp&headerType=none#رایگان | REALITY | @kiava | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @kingofilter | DE🇩🇪 | 0️⃣2️⃣"
             ],
@@ -246,35 +242,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @v2ray1_ng | NL🇳🇱 | 0️⃣5️⃣",
-            "type": "vless",
-            "server": "allrevolt.r8volt.com",
-            "server_port": 443,
-            "uuid": "ae5aed77-be23-4f6c-bd51-c73745038952",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "vu.nl",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Pk--Og6oefYaJlSVLEleq267EVt6NaNRIc0PR-4K9nk",
-                    "short_id": "77895d125b69cf7c"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @V2RayTz | FI🇫🇮 | 0️⃣4️⃣",
+            "tag": "رایگان | REALITY | @V2RayTz | FI🇫🇮 | 0️⃣6️⃣",
             "type": "vless",
             "server": "95.216.171.190",
             "server_port": 443,
@@ -309,7 +277,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @DailyV2RY | RU🇷🇺 | 0️⃣4️⃣",
+            "tag": "رایگان | REALITY | @DailyV2RY | RU🇷🇺 | 0️⃣6️⃣",
             "type": "vless",
             "server": "saint-petersburg-03.ptu.ink",
             "server_port": 443,
@@ -337,7 +305,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @DailyV2RY | TR🇹🇷 | 0️⃣5️⃣",
+            "tag": "رایگان | REALITY | @DailyV2RY | TR🇹🇷 | 0️⃣7️⃣",
             "type": "vless",
             "server": "turkey-01.ptu.ink",
             "server_port": 443,
@@ -361,34 +329,6 @@
                     "enabled": true,
                     "public_key": "zGp41QGUA2TBVirEaFS34_n05w38JxQHKbqQxS-iHzM",
                     "short_id": "cd2ccdd9761335d4"
-                }
-            }
-        },
-        {
-            "tag": "inbox&type=tcp&flow=xtls-rprx-vision&sni=mail.google.com&sid=3a07dc6f#رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣2️⃣",
-            "type": "vless",
-            "server": "3.76.82.84",
-            "server_port": 2082,
-            "uuid": "527a5f50-dd61-46b8-b87f-93b6fbf85322",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Yx9mjMxSVMEjVd_m9_A-bXz4n_KyjRVooeUQ-DvNYno",
-                    "short_id": ""
                 }
             }
         },
