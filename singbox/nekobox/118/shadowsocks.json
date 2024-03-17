@@ -115,6 +115,7 @@
                 "HK🇭🇰",
                 "ES🇪🇸",
                 "EE🇪🇪",
+                "PL🇵🇱",
                 "US🇺🇸",
                 "CH🇨🇭",
                 "TR🇹🇷"
@@ -130,10 +131,9 @@
                 "رایگان | SS | @OutlineVpnOfficial | HK🇭🇰 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | ES🇪🇸 | 0️⃣3️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | EE🇪🇪 | 0️⃣4️⃣",
-                "رایگان | SS | @forwardv2ray | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | SS | @forwardv2ray | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | SS | @forwardv2ray | US🇺🇸 | 0️⃣3️⃣",
-                "رایگان | SS | @forwardv2ray | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | SS | @forwardv2ray | PL🇵🇱 | 0️⃣1️⃣",
+                "رایگان | SS | @forwardv2ray | PL🇵🇱 | 0️⃣2️⃣",
+                "رایگان | SS | @forwardv2ray | PL🇵🇱 | 0️⃣3️⃣",
                 "رایگان | SS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @ROMAX_VPN | CH🇨🇭 | 0️⃣2️⃣",
                 "رایگان | SS | @ROMAX_VPN | TR🇹🇷 | 0️⃣3️⃣",
@@ -195,13 +195,21 @@
             "tolerance": 50
         },
         {
+            "tag": "PL🇵🇱",
+            "type": "urltest",
+            "outbounds": [
+                "رایگان | SS | @forwardv2ray | PL🇵🇱 | 0️⃣1️⃣",
+                "رایگان | SS | @forwardv2ray | PL🇵🇱 | 0️⃣2️⃣",
+                "رایگان | SS | @forwardv2ray | PL🇵🇱 | 0️⃣3️⃣"
+            ],
+            "url": "https:\/\/www.gstatic.com\/generate_204",
+            "interval": "5m",
+            "tolerance": 50
+        },
+        {
             "tag": "US🇺🇸",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @forwardv2ray | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | SS | @forwardv2ray | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | SS | @forwardv2ray | US🇺🇸 | 0️⃣3️⃣",
-                "رایگان | SS | @forwardv2ray | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | SS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -290,42 +298,32 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @forwardv2ray | US🇺🇸 | 0️⃣1️⃣",
+            "tag": "رایگان | SS | @forwardv2ray | PL🇵🇱 | 0️⃣1️⃣",
             "type": "shadowsocks",
-            "server": "[::ffff:344:e44d]",
-            "server_port": 2082,
+            "server": "95.164.35.90",
+            "server_port": 8388,
             "method": "chacha20-ietf-poly1305",
-            "password": "kQiTs3K5pYU5tTMGDWg7NUGoTgtHsOTwx+oNHoRLih4=",
+            "password": "NDg2YWIz",
             "plugin": "",
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @forwardv2ray | US🇺🇸 | 0️⃣2️⃣",
+            "tag": "رایگان | SS | @forwardv2ray | PL🇵🇱 | 0️⃣2️⃣",
             "type": "shadowsocks",
-            "server": "[::ffff:34e:fbd7]",
-            "server_port": 2082,
+            "server": "95.164.35.90",
+            "server_port": 1443,
             "method": "chacha20-ietf-poly1305",
-            "password": "9gMhG9Pa1gO4JmUsWEgG8DDLQ\/fF55SKVOPKDxenmVU=",
+            "password": "NDg2YWIz",
             "plugin": "",
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @forwardv2ray | US🇺🇸 | 0️⃣3️⃣",
+            "tag": "رایگان | SS | @forwardv2ray | PL🇵🇱 | 0️⃣3️⃣",
             "type": "shadowsocks",
-            "server": "[::ffff:37f:aac0]",
-            "server_port": 2082,
+            "server": "95.164.35.90",
+            "server_port": 8139,
             "method": "chacha20-ietf-poly1305",
-            "password": "4guayUppM6CRF5mFUWFCFiWqxr\/lRNSCFUER4weYyY4=",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @forwardv2ray | US🇺🇸 | 0️⃣4️⃣",
-            "type": "shadowsocks",
-            "server": "[::ffff:12c3:92cf]",
-            "server_port": 2082,
-            "method": "chacha20-ietf-poly1305",
-            "password": "WOyu7QCXmYgqtp8O9vEDY2RPBZ6uhE\/HUkYxJkvimu0=",
+            "password": "NDg2YWIz",
             "plugin": "",
             "plugin_opts": ""
         },
