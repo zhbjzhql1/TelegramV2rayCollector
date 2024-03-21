@@ -117,7 +117,7 @@
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣3️⃣",
+                "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣5️⃣",
                 "رایگان | REALITY | @kingofilter | DE🇩🇪 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -128,7 +128,7 @@
             "tag": "DE🇩🇪",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣3️⃣",
+                "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣5️⃣",
                 "رایگان | REALITY | @kingofilter | DE🇩🇪 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -136,11 +136,11 @@
             "tolerance": 50
         },
         {
-            "tag": "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣3️⃣",
+            "tag": "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣5️⃣",
             "type": "vless",
-            "server": "api.powercodes.top",
+            "server": "91.107.255.251",
             "server_port": 443,
-            "uuid": "61656ac4-2bc2-49d1-955e-c4e328b3ee06",
+            "uuid": "telegram-id-ArV2ray",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -150,21 +150,21 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "www.speedtest.net",
+                "server_name": "greenpepper.ir",
                 "insecure": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "firefox"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "A59WpA8Kots2lFFY71p7NoiHjEwjWHvhdcQB4FegcVI",
-                    "short_id": "e725"
+                    "public_key": "lvPn1RR_U4a0hcpQuH1hfVY3twxX7wdN8noVb6P37js",
+                    "short_id": "8d8b3968"
                 }
             },
             "transport": {
                 "type": "grpc",
-                "service_name": "Vm008QmqlKGyzp1mU4Ood86",
+                "service_name": "@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray",
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
