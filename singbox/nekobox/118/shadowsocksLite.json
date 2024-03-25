@@ -116,7 +116,7 @@
                 "رایگان | SS | @OutlineVpnOfficial | IL🇮🇱 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | JP🇯🇵 | 0️⃣3️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | SS | @forwardv2ray | KZ🇰🇿 | 0️⃣1️⃣",
+                "رایگان | SS | @forwardv2ray | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | SS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @ROMAX_VPN | KR🇰🇷 | 0️⃣2️⃣",
                 "رایگان | SS | @ROMAX_VPN | KR🇰🇷 | 0️⃣3️⃣"
@@ -132,7 +132,7 @@
                 "رایگان | SS | @OutlineVpnOfficial | IL🇮🇱 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | JP🇯🇵 | 0️⃣3️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | SS | @forwardv2ray | KZ🇰🇿 | 0️⃣1️⃣",
+                "رایگان | SS | @forwardv2ray | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | SS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @ROMAX_VPN | KR🇰🇷 | 0️⃣2️⃣",
                 "رایگان | SS | @ROMAX_VPN | KR🇰🇷 | 0️⃣3️⃣"
@@ -202,12 +202,12 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @forwardv2ray | KZ🇰🇿 | 0️⃣1️⃣",
+            "tag": "رایگان | SS | @forwardv2ray | RU🇷🇺 | 0️⃣1️⃣",
             "type": "shadowsocks",
-            "server": "kz.telegavpn.com",
-            "server_port": 35152,
+            "server": "moscow.telegavpn.com",
+            "server_port": 60422,
             "method": "chacha20-ietf-poly1305",
-            "password": "zbBvZchbOU2UgyCLBdJpJt",
+            "password": "GzVnd84jRjaMMK75SQFnDf",
             "plugin": "",
             "plugin_opts": ""
         },
