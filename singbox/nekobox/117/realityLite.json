@@ -103,15 +103,48 @@
         {
             "tag": "proxy",
             "type": "selector",
-            "outbounds": null
+            "outbounds": [
+                "URL-TEST | رایگان",
+                "رایگان | REALITY | @forwardv2ray | FR🇫🇷 | 0️⃣4️⃣"
+            ]
         },
         {
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
-            "outbounds": null,
+            "outbounds": [
+                "رایگان | REALITY | @forwardv2ray | FR🇫🇷 | 0️⃣4️⃣"
+            ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
             "tolerance": 50
+        },
+        {
+            "tag": "رایگان | REALITY | @forwardv2ray | FR🇫🇷 | 0️⃣4️⃣",
+            "type": "vless",
+            "server": "217.69.9.222",
+            "server_port": 443,
+            "uuid": "e353ac79-980d-4156-9852-2e55114d55e5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": null
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "ivaP923zoPfQOoOXDwJfboFkZM",
+                    "short_id": ""
+                }
+            }
         },
         {
             "tag": "direct",
