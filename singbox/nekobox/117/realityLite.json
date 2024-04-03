@@ -110,7 +110,6 @@
                 "رایگان | REALITY | @proxyymeliii | IR🇮🇷 | 0️⃣2️⃣",
                 "رایگان | REALITY | @v2ray1_ng | NL🇳🇱 | 0️⃣5️⃣",
                 "رایگان | REALITY | @DailyV2RY | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @GozargahVPN | DE🇩🇪 | 0️⃣6️⃣"
             ]
         },
@@ -123,7 +122,6 @@
                 "رایگان | REALITY | @proxyymeliii | IR🇮🇷 | 0️⃣2️⃣",
                 "رایگان | REALITY | @v2ray1_ng | NL🇳🇱 | 0️⃣5️⃣",
                 "رایگان | REALITY | @DailyV2RY | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @GozargahVPN | DE🇩🇪 | 0️⃣6️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -281,34 +279,6 @@
                     "enabled": true,
                     "public_key": "yDP19KgLJ0B8K73kObrTWo_N4pcFedyJ5MRuCdisHnk",
                     "short_id": "6e4d5ce0"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣1️⃣",
-            "type": "vless",
-            "server": "91.107.173.182",
-            "server_port": 4080,
-            "uuid": "0fdfb7ba-12af-4a7e-821f-da567b1cf10f",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "faassentuinendier.nl",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "uaeE5BY769chw_V0tWIz81TD-2BVhvcrA7c0ArXXITM",
-                    "short_id": "01199181"
                 }
             }
         },
