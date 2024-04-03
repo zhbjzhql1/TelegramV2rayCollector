@@ -110,9 +110,9 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
-                "رایگان | REALITY | @EliV2ray | GB🇬🇧 | 0️⃣4️⃣",
-                "رایگان | REALITY | @V2rayCollectorDonate | FI🇫🇮 | 0️⃣9️⃣",
-                "رایگان | REALITY | @v2ray1_ng | NL🇳🇱 | 0️⃣4️⃣",
+                "رایگان | REALITY | @EliV2ray | GB🇬🇧 | 0️⃣5️⃣",
+                "رایگان | REALITY | @proxyymeliii | TR🇹🇷 | 0️⃣3️⃣",
+                "رایگان | REALITY | @v2ray1_ng | NL🇳🇱 | 0️⃣5️⃣",
                 "رایگان | REALITY | @GozargahVPN | DE🇩🇪 | 0️⃣6️⃣"
             ]
         },
@@ -120,9 +120,9 @@
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @EliV2ray | GB🇬🇧 | 0️⃣4️⃣",
-                "رایگان | REALITY | @V2rayCollectorDonate | FI🇫🇮 | 0️⃣9️⃣",
-                "رایگان | REALITY | @v2ray1_ng | NL🇳🇱 | 0️⃣4️⃣",
+                "رایگان | REALITY | @EliV2ray | GB🇬🇧 | 0️⃣5️⃣",
+                "رایگان | REALITY | @proxyymeliii | TR🇹🇷 | 0️⃣3️⃣",
+                "رایگان | REALITY | @v2ray1_ng | NL🇳🇱 | 0️⃣5️⃣",
                 "رایگان | REALITY | @GozargahVPN | DE🇩🇪 | 0️⃣6️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -130,7 +130,7 @@
             "tolerance": 50
         },
         {
-            "tag": "رایگان | REALITY | @EliV2ray | GB🇬🇧 | 0️⃣4️⃣",
+            "tag": "رایگان | REALITY | @EliV2ray | GB🇬🇧 | 0️⃣5️⃣",
             "type": "vless",
             "server": "165.22.120.153",
             "server_port": 443,
@@ -165,11 +165,11 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @V2rayCollectorDonate | FI🇫🇮 | 0️⃣9️⃣",
+            "tag": "رایگان | REALITY | @proxyymeliii | TR🇹🇷 | 0️⃣3️⃣",
             "type": "vless",
-            "server": "pub2.legendaryking.link",
-            "server_port": 443,
-            "uuid": "ItsLegendaryking",
+            "server": "mado3.maghzkadehturky.com.tr",
+            "server_port": 2053,
+            "uuid": "cc4d3871-e0ac-4024-b31c-18e630894016",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -179,7 +179,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "fortune.com",
+                "server_name": "cdn.discordapp.com",
                 "insecure": false,
                 "utls": {
                     "enabled": true,
@@ -187,20 +187,20 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "8UMZ6q74yjStq0Gad3QhEVYUZW3traIgWx9QWHpYLBI",
-                    "short_id": "e1ac93f1"
+                    "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+                    "short_id": ""
                 }
             },
             "transport": {
                 "type": "grpc",
-                "service_name": "Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers",
+                "service_name": "xyz",
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
             }
         },
         {
-            "tag": "رایگان | REALITY | @v2ray1_ng | NL🇳🇱 | 0️⃣4️⃣",
+            "tag": "رایگان | REALITY | @v2ray1_ng | NL🇳🇱 | 0️⃣5️⃣",
             "type": "vless",
             "server": "allrevolt.r8volt.com",
             "server_port": 8443,
