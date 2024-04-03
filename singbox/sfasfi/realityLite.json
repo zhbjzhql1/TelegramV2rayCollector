@@ -106,8 +106,8 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
-                "رایگان | REALITY | @EliV2ray | GB🇬🇧 | 0️⃣6️⃣",
-                "رایگان | REALITY | @NIM_VPN_ir | TR🇹🇷 | 0️⃣5️⃣",
+                "رایگان | REALITY | @EliV2ray | GB🇬🇧 | 0️⃣7️⃣",
+                "رایگان | REALITY | @NIM_VPN_ir | TR🇹🇷 | 0️⃣6️⃣",
                 "رایگان | REALITY | @v2ray_swhil | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | REALITY | @proxyymeliii | TR🇹🇷 | 0️⃣1️⃣"
             ]
@@ -116,8 +116,8 @@
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @EliV2ray | GB🇬🇧 | 0️⃣6️⃣",
-                "رایگان | REALITY | @NIM_VPN_ir | TR🇹🇷 | 0️⃣5️⃣",
+                "رایگان | REALITY | @EliV2ray | GB🇬🇧 | 0️⃣7️⃣",
+                "رایگان | REALITY | @NIM_VPN_ir | TR🇹🇷 | 0️⃣6️⃣",
                 "رایگان | REALITY | @v2ray_swhil | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | REALITY | @proxyymeliii | TR🇹🇷 | 0️⃣1️⃣"
             ],
@@ -126,7 +126,7 @@
             "tolerance": 50
         },
         {
-            "tag": "رایگان | REALITY | @EliV2ray | GB🇬🇧 | 0️⃣6️⃣",
+            "tag": "رایگان | REALITY | @EliV2ray | GB🇬🇧 | 0️⃣7️⃣",
             "type": "vless",
             "server": "165.22.120.153",
             "server_port": 443,
@@ -161,7 +161,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @NIM_VPN_ir | TR🇹🇷 | 0️⃣5️⃣",
+            "tag": "رایگان | REALITY | @NIM_VPN_ir | TR🇹🇷 | 0️⃣6️⃣",
             "type": "vless",
             "server": "213.217.31.43",
             "server_port": 8080,
