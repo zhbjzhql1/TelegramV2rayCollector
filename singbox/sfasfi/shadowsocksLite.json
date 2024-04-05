@@ -120,9 +120,7 @@
                 "رایگان | SS | @OutlineVpnOfficial | JP🇯🇵 | 0️⃣6️⃣",
                 "رایگان | SS | @FAKEOFTVC | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | SS | @FAKEOFTVC | US🇺🇸 | 0️⃣3️⃣",
-                "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣4️⃣",
-                "رایگان | SS | @kingofilter | BH🇧🇭 | 0️⃣1️⃣",
+                "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣3️⃣",
                 "رایگان | SS | @ROMAX_VPN | KR🇰🇷 | 0️⃣1️⃣"
             ]
         },
@@ -144,9 +142,7 @@
                 "رایگان | SS | @OutlineVpnOfficial | JP🇯🇵 | 0️⃣6️⃣",
                 "رایگان | SS | @FAKEOFTVC | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | SS | @FAKEOFTVC | US🇺🇸 | 0️⃣3️⃣",
-                "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣4️⃣",
-                "رایگان | SS | @kingofilter | BH🇧🇭 | 0️⃣1️⃣",
+                "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣3️⃣",
                 "رایگان | SS | @ROMAX_VPN | KR🇰🇷 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -294,32 +290,12 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @FAKEOFTVC | US🇺🇸 | 0️⃣3️⃣",
-            "type": "shadowsocks",
-            "server": "45.158.171.227",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣4️⃣",
+            "tag": "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣3️⃣",
             "type": "shadowsocks",
             "server": "51.140.37.163",
             "server_port": 34417,
             "method": "chacha20-ietf-poly1305",
             "password": "OZ2VmWR9pI74zoLstexAee",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @kingofilter | BH🇧🇭 | 0️⃣1️⃣",
-            "type": "shadowsocks",
-            "server": "series-a2-me.varzesh360.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "Bog0ELmMM9DSxDdQ",
             "plugin": "",
             "plugin_opts": ""
         },
