@@ -110,16 +110,14 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
-                "DE🇩🇪",
-                "RU🇷🇺"
+                "DE🇩🇪"
             ]
         },
         {
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @DailyV2RY | DE🇩🇪 | 0️⃣5️⃣",
-                "رایگان | REALITY | @ConfigsHUB | RU🇷🇺 | 0️⃣3️⃣"
+                "رایگان | REALITY | @DailyV2RY | DE🇩🇪 | 0️⃣5️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -130,16 +128,6 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | REALITY | @DailyV2RY | DE🇩🇪 | 0️⃣5️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "RU🇷🇺",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | REALITY | @ConfigsHUB | RU🇷🇺 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -178,34 +166,6 @@
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @ConfigsHUB | RU🇷🇺 | 0️⃣3️⃣",
-            "type": "vless",
-            "server": "193.242.145.208",
-            "server_port": 48297,
-            "uuid": "f127db9d-0611-4b04-c957-a58ae7c9b72c",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "fran.havafaza.shop",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg",
-                    "short_id": ""
-                }
             }
         },
         {
