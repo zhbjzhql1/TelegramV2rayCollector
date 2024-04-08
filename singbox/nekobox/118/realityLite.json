@@ -113,7 +113,9 @@
                 "رایگان | REALITY | @NIM_VPN_ir | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @NIM_VPN_ir | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @azadi_az_inja_migzare | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @azadi_az_inja_migzare | DE🇩🇪 | 0️⃣3️⃣"
+                "رایگان | REALITY | @azadi_az_inja_migzare | DE🇩🇪 | 0️⃣3️⃣",
+                "رایگان | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣4️⃣",
+                "رایگان | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣6️⃣"
             ]
         },
         {
@@ -123,7 +125,9 @@
                 "رایگان | REALITY | @NIM_VPN_ir | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @NIM_VPN_ir | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @azadi_az_inja_migzare | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @azadi_az_inja_migzare | DE🇩🇪 | 0️⃣3️⃣"
+                "رایگان | REALITY | @azadi_az_inja_migzare | DE🇩🇪 | 0️⃣3️⃣",
+                "رایگان | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣4️⃣",
+                "رایگان | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣6️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -238,6 +242,62 @@
                     "enabled": true,
                     "public_key": "mrsV5dPIWx0dtPzo9u4FdkZi3Ly3hh8CGN-gHuZY4S8",
                     "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣4️⃣",
+            "type": "vless",
+            "server": "91.107.171.107",
+            "server_port": 443,
+            "uuid": "61f57908-ab92-453c-8fb8-961d44b2c281",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "010101.peterwilbers.nl",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "fX78dtEUjdw_RmTf5BIyMvq9voW-qkb2pA9U8W7c0Q8",
+                    "short_id": "df5dbf32"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣6️⃣",
+            "type": "vless",
+            "server": "5.75.207.215",
+            "server_port": 49830,
+            "uuid": "2104b29c-130d-4138-b6e5-cda78a11ff79",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "ftp.debian.org",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Dqs9RsG4pc8GWjiOZ1TYEm7Xt33g8OhcYDgfgQzhwho",
+                    "short_id": "2980368d"
                 }
             }
         },
