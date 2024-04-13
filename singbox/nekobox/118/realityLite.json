@@ -110,7 +110,10 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
+                "رایگان | REALITY | @EliV2ray | IS🇮🇸 | 0️⃣3️⃣",
                 "رایگان | REALITY | @ShadowProxy66 | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | REALITY | @ShadowProxy66 | DE🇩🇪 | 0️⃣5️⃣",
+                "رایگان | REALITY | @ShadowProxy66 | FI🇫🇮 | 0️⃣6️⃣",
                 "رایگان | REALITY | @vless_vmess | DE🇩🇪 | 0️⃣4️⃣",
                 "رایگان | REALITY | @FAKEOFTVC | GB🇬🇧 | 0️⃣2️⃣"
             ]
@@ -119,13 +122,51 @@
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
+                "رایگان | REALITY | @EliV2ray | IS🇮🇸 | 0️⃣3️⃣",
                 "رایگان | REALITY | @ShadowProxy66 | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | REALITY | @ShadowProxy66 | DE🇩🇪 | 0️⃣5️⃣",
+                "رایگان | REALITY | @ShadowProxy66 | FI🇫🇮 | 0️⃣6️⃣",
                 "رایگان | REALITY | @vless_vmess | DE🇩🇪 | 0️⃣4️⃣",
                 "رایگان | REALITY | @FAKEOFTVC | GB🇬🇧 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
             "tolerance": 50
+        },
+        {
+            "tag": "رایگان | REALITY | @EliV2ray | IS🇮🇸 | 0️⃣3️⃣",
+            "type": "vless",
+            "server": "89.221.224.166",
+            "server_port": 8443,
+            "uuid": "7a0f288a-7df3-4f74-a8b2-69d884aebdff",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "172.66.44.245",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "lknJ1qdh1naSh-NJX8O7oOdnFov8vOETpy2A6bVtiUk",
+                    "short_id": "8545118da3a60b18"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "grpc",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
         },
         {
             "tag": "رایگان | REALITY | @ShadowProxy66 | DE🇩🇪 | 0️⃣2️⃣",
@@ -152,6 +193,62 @@
                     "enabled": true,
                     "public_key": "UPDaAp6tkfjOWDDIAJXNtNqRRriaSQm_C8mcAQQP8nw",
                     "short_id": "fabb696169ae2a95"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @ShadowProxy66 | DE🇩🇪 | 0️⃣5️⃣",
+            "type": "vless",
+            "server": "91.107.160.71",
+            "server_port": 32912,
+            "uuid": "6101d81f-4cf6-40e6-81ae-7d30dd1f7a4a",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "github.io",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "yDP19KgLJ0B8K73kObrTWo_N4pcFedyJ5MRuCdisHnk",
+                    "short_id": "6e4d5ce0"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @ShadowProxy66 | FI🇫🇮 | 0️⃣6️⃣",
+            "type": "vless",
+            "server": "65.109.188.83",
+            "server_port": 56888,
+            "uuid": "f6e218b3-e76c-43e5-93ca-1feb336e5c34",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "ftp.debian.org",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "WsXvo3TM_RUNg529VtpsjyakG21eK65iOnvIuSvvGTA",
+                    "short_id": "bdfff48d"
                 }
             }
         },
