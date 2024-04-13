@@ -111,8 +111,6 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "DE🇩🇪",
-                "NL🇳🇱",
-                "US🇺🇸",
                 "GB🇬🇧"
             ]
         },
@@ -120,11 +118,8 @@
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @ShadowProxy66 | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @ShadowProxy66 | DE🇩🇪 | 0️⃣5️⃣",
+                "رایگان | REALITY | @ShadowProxy66 | DE🇩🇪 | 0️⃣4️⃣",
                 "رایگان | REALITY | @vless_vmess | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | REALITY | @v2ray_swhil | NL🇳🇱 | 0️⃣3️⃣",
-                "رایگان | REALITY | @DailyV2RY | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | REALITY | @FAKEOFTVC | GB🇬🇧 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -135,29 +130,8 @@
             "tag": "DE🇩🇪",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @ShadowProxy66 | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @ShadowProxy66 | DE🇩🇪 | 0️⃣5️⃣",
+                "رایگان | REALITY | @ShadowProxy66 | DE🇩🇪 | 0️⃣4️⃣",
                 "رایگان | REALITY | @vless_vmess | DE🇩🇪 | 0️⃣3️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "NL🇳🇱",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | REALITY | @v2ray_swhil | NL🇳🇱 | 0️⃣3️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "US🇺🇸",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | REALITY | @DailyV2RY | US🇺🇸 | 0️⃣4️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -174,35 +148,7 @@
             "tolerance": 50
         },
         {
-            "tag": "رایگان | REALITY | @ShadowProxy66 | DE🇩🇪 | 0️⃣2️⃣",
-            "type": "vless",
-            "server": "95.164.68.37",
-            "server_port": 8443,
-            "uuid": "ce3f2a75-28fe-48f0-a35c-56166017f8d3",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "104.21.70.42",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "UPDaAp6tkfjOWDDIAJXNtNqRRriaSQm_C8mcAQQP8nw",
-                    "short_id": "fabb696169ae2a95"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @ShadowProxy66 | DE🇩🇪 | 0️⃣5️⃣",
+            "tag": "رایگان | REALITY | @ShadowProxy66 | DE🇩🇪 | 0️⃣4️⃣",
             "type": "vless",
             "server": "91.107.160.71",
             "server_port": 32912,
@@ -254,62 +200,6 @@
                     "enabled": true,
                     "public_key": "Dqs9RsG4pc8GWjiOZ1TYEm7Xt33g8OhcYDgfgQzhwho",
                     "short_id": "2980368d"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @v2ray_swhil | NL🇳🇱 | 0️⃣3️⃣",
-            "type": "vless",
-            "server": "allrevolt.r8volt.com",
-            "server_port": 8443,
-            "uuid": "ae5aed77-be23-4f6c-bd51-c73745038952",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "maps.google.com",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "NbtOWq_km9k_SKgCJatXla3Jl7gGKVbjQ-GAtGg4bEk",
-                    "short_id": "bfde1c85a6a4112a"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @DailyV2RY | US🇺🇸 | 0️⃣4️⃣",
-            "type": "vless",
-            "server": "[::ffff:74cb:2f80]",
-            "server_port": 29253,
-            "uuid": "f5512b61-d706-4438-8d03-1817f0aba9e0",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "canva.com",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "eS-KEoBKsWjjBTpMY6kr5eZbre-UPBGAiqmeNPLRkXg",
-                    "short_id": "5038468e"
                 }
             }
         },
