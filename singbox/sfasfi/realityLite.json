@@ -109,7 +109,8 @@
                 "رایگان | REALITY | @EliV2ray | IS🇮🇸 | 0️⃣6️⃣",
                 "رایگان | REALITY | @ShadowProxy66 | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @ShadowProxy66 | DE🇩🇪 | 0️⃣5️⃣",
-                "رایگان | REALITY | @vless_vmess | DE🇩🇪 | 0️⃣4️⃣",
+                "رایگان | REALITY | @ConfigsHUB | NL🇳🇱 | 0️⃣3️⃣",
+                "رایگان | REALITY | @ConfigsHUB | GB🇬🇧 | 0️⃣7️⃣",
                 "رایگان | REALITY | @FAKEOFTVC | GB🇬🇧 | 0️⃣2️⃣"
             ]
         },
@@ -120,7 +121,8 @@
                 "رایگان | REALITY | @EliV2ray | IS🇮🇸 | 0️⃣6️⃣",
                 "رایگان | REALITY | @ShadowProxy66 | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @ShadowProxy66 | DE🇩🇪 | 0️⃣5️⃣",
-                "رایگان | REALITY | @vless_vmess | DE🇩🇪 | 0️⃣4️⃣",
+                "رایگان | REALITY | @ConfigsHUB | NL🇳🇱 | 0️⃣3️⃣",
+                "رایگان | REALITY | @ConfigsHUB | GB🇬🇧 | 0️⃣7️⃣",
                 "رایگان | REALITY | @FAKEOFTVC | GB🇬🇧 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -219,11 +221,11 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @vless_vmess | DE🇩🇪 | 0️⃣4️⃣",
+            "tag": "رایگان | REALITY | @ConfigsHUB | NL🇳🇱 | 0️⃣3️⃣",
             "type": "vless",
-            "server": "5.75.207.215",
-            "server_port": 49830,
-            "uuid": "2104b29c-130d-4138-b6e5-cda78a11ff79",
+            "server": "193.176.190.40",
+            "server_port": 888,
+            "uuid": "ea11001c-f391-42f9-9db8-7fa3fadf33b7",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -233,7 +235,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "ftp.debian.org",
+                "server_name": "fortune.com",
                 "insecure": false,
                 "utls": {
                     "enabled": true,
@@ -241,8 +243,36 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "Dqs9RsG4pc8GWjiOZ1TYEm7Xt33g8OhcYDgfgQzhwho",
-                    "short_id": "2980368d"
+                    "public_key": "brBI6hEf2HIzZjdTQsMtftQodJ3p3KVry5mzgVqvVkU",
+                    "short_id": "8cd6d3c4"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @ConfigsHUB | GB🇬🇧 | 0️⃣7️⃣",
+            "type": "vless",
+            "server": "143.47.241.46",
+            "server_port": 16097,
+            "uuid": "378387d5-4370-4e38-9661-25796e8630ba",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.amazon.com",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "qMH_7IYKzR0mOLN35mnQijwzN8IiWdudhryTHaQzWS0",
+                    "short_id": ""
                 }
             }
         },
