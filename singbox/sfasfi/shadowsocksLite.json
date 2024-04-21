@@ -110,8 +110,7 @@
                 "رایگان | SS | @DeamNet_Proxy | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | AT🇦🇹 | 0️⃣1️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | SE🇸🇪 | 0️⃣2️⃣",
+                "رایگان | SS | @OutlineVpnOfficial | SE🇸🇪 | 0️⃣1️⃣",
                 "رایگان | SS | @ROMAX_VPN | ES🇪🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @ROMAX_VPN | LT🇱🇹 | 0️⃣2️⃣"
             ]
@@ -124,8 +123,7 @@
                 "رایگان | SS | @DeamNet_Proxy | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | AT🇦🇹 | 0️⃣1️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | SE🇸🇪 | 0️⃣2️⃣",
+                "رایگان | SS | @OutlineVpnOfficial | SE🇸🇪 | 0️⃣1️⃣",
                 "رایگان | SS | @ROMAX_VPN | ES🇪🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @ROMAX_VPN | LT🇱🇹 | 0️⃣2️⃣"
             ],
@@ -174,17 +172,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @OutlineVpnOfficial | AT🇦🇹 | 0️⃣1️⃣",
-            "type": "shadowsocks",
-            "server": "95.164.9.144",
-            "server_port": 2927,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ug4Fu79SEREdFGlt2sUyT4",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @OutlineVpnOfficial | SE🇸🇪 | 0️⃣2️⃣",
+            "tag": "رایگان | SS | @OutlineVpnOfficial | SE🇸🇪 | 0️⃣1️⃣",
             "type": "shadowsocks",
             "server": "94.228.165.234",
             "server_port": 15214,
