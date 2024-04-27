@@ -139,9 +139,9 @@
                 "رایگان | VLESS | @NIM_VPN_ir | CA🇨🇦 | 0️⃣6️⃣",
                 "رایگان | VLESS | @NIM_VPN_ir | CA🇨🇦 | 0️⃣7️⃣",
                 "رایگان | VLESS | @melov2ray | CA🇨🇦 | 0️⃣1️⃣",
-                "رایگان | VLESS | @melov2ray | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | VLESS | @melov2ray | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | VLESS | @melov2ray | CA🇨🇦 | 0️⃣4️⃣",
+                "رایگان | VLESS | @melov2ray | CA🇨🇦 | 0️⃣5️⃣",
                 "رایگان | VLESS | @melov2ray | CA🇨🇦 | 0️⃣6️⃣",
                 "رایگان | VLESS | @V2pedia | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | VLESS | @V2pedia | CA🇨🇦 | 0️⃣2️⃣",
@@ -272,7 +272,7 @@
                 "رایگان | VLESS | @VPNCUSTOMIZE | NL🇳🇱 | 0️⃣4️⃣",
                 "رایگان | VLESS | @VPNCUSTOMIZE | NL🇳🇱 | 0️⃣6️⃣",
                 "رایگان | VLESS | @v2logy | NL🇳🇱 | 0️⃣1️⃣",
-                "رایگان | VLESS | @melov2ray | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @melov2ray | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @Lockey_vpn | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @Lockey_vpn | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | VLESS | @Lockey_vpn | US🇺🇸 | 0️⃣7️⃣",
@@ -462,9 +462,9 @@
                 "رایگان | VLESS | @NIM_VPN_ir | CA🇨🇦 | 0️⃣6️⃣",
                 "رایگان | VLESS | @NIM_VPN_ir | CA🇨🇦 | 0️⃣7️⃣",
                 "رایگان | VLESS | @melov2ray | CA🇨🇦 | 0️⃣1️⃣",
-                "رایگان | VLESS | @melov2ray | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | VLESS | @melov2ray | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | VLESS | @melov2ray | CA🇨🇦 | 0️⃣4️⃣",
+                "رایگان | VLESS | @melov2ray | CA🇨🇦 | 0️⃣5️⃣",
                 "رایگان | VLESS | @melov2ray | CA🇨🇦 | 0️⃣6️⃣",
                 "رایگان | VLESS | @V2pedia | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | VLESS | @V2pedia | CA🇨🇦 | 0️⃣2️⃣",
@@ -640,7 +640,7 @@
             "tag": "US🇺🇸",
             "type": "urltest",
             "outbounds": [
-                "رایگان | VLESS | @melov2ray | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @melov2ray | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @Lockey_vpn | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @Lockey_vpn | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | VLESS | @Lockey_vpn | US🇺🇸 | 0️⃣7️⃣",
@@ -890,7 +890,7 @@
             "type": "vless",
             "server": "www.visa.com",
             "server_port": 8080,
-            "uuid": "Parsashonam-51",
+            "uuid": "Parsashonam-52",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -913,7 +913,7 @@
             "type": "vless",
             "server": "www.visa.com",
             "server_port": 443,
-            "uuid": "Parsashonam-48",
+            "uuid": "Parsashonam-49",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -945,7 +945,7 @@
             "type": "vless",
             "server": "www.visa.com",
             "server_port": 8080,
-            "uuid": "Parsashonam-50",
+            "uuid": "Parsashonam-51",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -968,7 +968,7 @@
             "type": "vless",
             "server": "www.visa.com",
             "server_port": 443,
-            "uuid": "Parsashonam-47",
+            "uuid": "Parsashonam-48",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1000,7 +1000,7 @@
             "type": "vless",
             "server": "www.visa.com",
             "server_port": 8080,
-            "uuid": "Parsashonam-49",
+            "uuid": "Parsashonam-50",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1023,7 +1023,7 @@
             "type": "vless",
             "server": "www.visa.com",
             "server_port": 443,
-            "uuid": "Parsashonam-46",
+            "uuid": "Parsashonam-47",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1055,7 +1055,7 @@
             "type": "vless",
             "server": "www.visa.com",
             "server_port": 8080,
-            "uuid": "Parsashonam-48",
+            "uuid": "Parsashonam-49",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1304,29 +1304,6 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @melov2ray | CA🇨🇦 | 0️⃣2️⃣",
-            "type": "vless",
-            "server": "chat.openai.com",
-            "server_port": 8080,
-            "uuid": "9d568a07-a12e-4ac1-a554-f7cddfce2db1",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/melov2ray",
-                "headers": {
-                    "Host": "de.过滤器.store."
-                },
-                "max_early_data": 0,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
             "tag": "رایگان | VLESS | @melov2ray | CA🇨🇦 | 0️⃣3️⃣",
             "type": "vless",
             "server": "help.melov2ray.shop",
@@ -1379,6 +1356,36 @@
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VLESS | @melov2ray | CA🇨🇦 | 0️⃣5️⃣",
+            "type": "vless",
+            "server": "chat.openai.com",
+            "server_port": 443,
+            "uuid": "8d2b1217-c750-4fe6-9d07-7325cf1e300b",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "help.melov2ray.shop",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "melov2ray",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
@@ -4472,11 +4479,11 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @melov2ray | US🇺🇸 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @melov2ray | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "chat.openai.com",
-            "server_port": 443,
-            "uuid": "8d2b1217-c750-4fe6-9d07-7325cf1e300b",
+            "server_port": 8080,
+            "uuid": "9d568a07-a12e-4ac1-a554-f7cddfce2db1",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -4484,21 +4491,14 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "help.melov2ray.shop",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
-                "type": "grpc",
-                "service_name": "melov2ray",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
+                "type": "ws",
+                "path": "\/melov2ray",
+                "headers": {
+                    "Host": "de.过滤器.store."
+                },
+                "max_early_data": 0,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
             }
         },
         {
