@@ -106,13 +106,13 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
+                "AT🇦🇹",
                 "DE🇩🇪",
                 "CA🇨🇦",
                 "FR🇫🇷",
                 "US🇺🇸",
                 "GB🇬🇧",
                 "PL🇵🇱",
-                "AT🇦🇹",
                 "RU🇷🇺",
                 "SE🇸🇪"
             ]
@@ -121,22 +121,33 @@
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @azadi_az_inja_migzare | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | SS | @azadi_az_inja_migzare | AT🇦🇹 | 0️⃣1️⃣",
+                "رایگان | SS | @OutlineVpnOfficial | AT🇦🇹 | 0️⃣3️⃣",
+                "رایگان | SS | @azadi_az_inja_migzare | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | DE🇩🇪 | 0️⃣7️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | SS | @azadi_az_inja_migzare | CA🇨🇦 | 0️⃣2️⃣",
+                "رایگان | SS | @azadi_az_inja_migzare | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | SS | @ROMAX_VPN | CA🇨🇦 | 0️⃣2️⃣",
-                "رایگان | SS | @azadi_az_inja_migzare | FR🇫🇷 | 0️⃣3️⃣",
-                "رایگان | SS | @azadi_az_inja_migzare | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | SS | @azadi_az_inja_migzare | FR🇫🇷 | 0️⃣4️⃣",
+                "رایگان | SS | @azadi_az_inja_migzare | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | SS | @VmessProtocol | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | SS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | SS | @azadi_az_inja_migzare | GB🇬🇧 | 0️⃣5️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣3️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣1️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | AT🇦🇹 | 0️⃣3️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | RU🇷🇺 | 0️⃣4️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | SE🇸🇪 | 0️⃣5️⃣"
+            ],
+            "url": "https:\/\/www.gstatic.com\/generate_204",
+            "interval": "5m",
+            "tolerance": 50
+        },
+        {
+            "tag": "AT🇦🇹",
+            "type": "urltest",
+            "outbounds": [
+                "رایگان | SS | @azadi_az_inja_migzare | AT🇦🇹 | 0️⃣1️⃣",
+                "رایگان | SS | @OutlineVpnOfficial | AT🇦🇹 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -146,7 +157,7 @@
             "tag": "DE🇩🇪",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @azadi_az_inja_migzare | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | SS | @azadi_az_inja_migzare | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | DE🇩🇪 | 0️⃣7️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | DE🇩🇪 | 0️⃣2️⃣"
             ],
@@ -158,7 +169,7 @@
             "tag": "CA🇨🇦",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @azadi_az_inja_migzare | CA🇨🇦 | 0️⃣2️⃣",
+                "رایگان | SS | @azadi_az_inja_migzare | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | SS | @ROMAX_VPN | CA🇨🇦 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -169,7 +180,7 @@
             "tag": "FR🇫🇷",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @azadi_az_inja_migzare | FR🇫🇷 | 0️⃣3️⃣"
+                "رایگان | SS | @azadi_az_inja_migzare | FR🇫🇷 | 0️⃣4️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -179,7 +190,7 @@
             "tag": "US🇺🇸",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @azadi_az_inja_migzare | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | SS | @azadi_az_inja_migzare | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | SS | @VmessProtocol | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | SS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣"
             ],
@@ -191,7 +202,6 @@
             "tag": "GB🇬🇧",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @azadi_az_inja_migzare | GB🇬🇧 | 0️⃣5️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣3️⃣"
             ],
@@ -204,16 +214,6 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣1️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "AT🇦🇹",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | SS | @OutlineVpnOfficial | AT🇦🇹 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -240,7 +240,27 @@
             "tolerance": 50
         },
         {
-            "tag": "رایگان | SS | @azadi_az_inja_migzare | DE🇩🇪 | 0️⃣1️⃣",
+            "tag": "رایگان | SS | @azadi_az_inja_migzare | AT🇦🇹 | 0️⃣1️⃣",
+            "type": "shadowsocks",
+            "server": "vienna.telegavpn.com",
+            "server_port": 61992,
+            "method": "chacha20-ietf-poly1305",
+            "password": "44NebhqlhRGbaKc0YWM7Oq",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @OutlineVpnOfficial | AT🇦🇹 | 0️⃣3️⃣",
+            "type": "shadowsocks",
+            "server": "95.164.9.144",
+            "server_port": 2927,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ug4Fu79SEREdFGlt2sUyT4",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @azadi_az_inja_migzare | DE🇩🇪 | 0️⃣2️⃣",
             "type": "shadowsocks",
             "server": "outline.de.outlinekeys.net",
             "server_port": 20888,
@@ -270,7 +290,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @azadi_az_inja_migzare | CA🇨🇦 | 0️⃣2️⃣",
+            "tag": "رایگان | SS | @azadi_az_inja_migzare | CA🇨🇦 | 0️⃣3️⃣",
             "type": "shadowsocks",
             "server": "23.162.200.225",
             "server_port": 9102,
@@ -290,7 +310,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @azadi_az_inja_migzare | FR🇫🇷 | 0️⃣3️⃣",
+            "tag": "رایگان | SS | @azadi_az_inja_migzare | FR🇫🇷 | 0️⃣4️⃣",
             "type": "shadowsocks",
             "server": "paris.telegavpn.com",
             "server_port": 9802,
@@ -300,7 +320,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @azadi_az_inja_migzare | US🇺🇸 | 0️⃣4️⃣",
+            "tag": "رایگان | SS | @azadi_az_inja_migzare | US🇺🇸 | 0️⃣5️⃣",
             "type": "shadowsocks",
             "server": "23.154.136.37",
             "server_port": 8118,
@@ -326,16 +346,6 @@
             "server_port": 8882,
             "method": "aes-256-gcm",
             "password": "kDWvXYZoTBcGkC4",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @azadi_az_inja_migzare | GB🇬🇧 | 0️⃣5️⃣",
-            "type": "shadowsocks",
-            "server": "89.185.84.30",
-            "server_port": 20228,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ia5LxWdirrz8X6n9b784Ff",
             "plugin": "",
             "plugin_opts": ""
         },
@@ -366,16 +376,6 @@
             "server_port": 3306,
             "method": "aes-256-gcm",
             "password": "Y6R9pAtvxxzmGC",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @OutlineVpnOfficial | AT🇦🇹 | 0️⃣3️⃣",
-            "type": "shadowsocks",
-            "server": "95.164.9.144",
-            "server_port": 2927,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ug4Fu79SEREdFGlt2sUyT4",
             "plugin": "",
             "plugin_opts": ""
         },
