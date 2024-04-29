@@ -109,6 +109,7 @@
                 "GB🇬🇧",
                 "NL🇳🇱",
                 "NO🇳🇴",
+                "DE🇩🇪",
                 "PL🇵🇱",
                 "CZ🇨🇿"
             ]
@@ -153,6 +154,7 @@
                 "رایگان | VMESS | @V2rayNGn | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | VMESS | @oneclickvpnkeys | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | VMESS | @ShadowProxy66 | NO🇳🇴 | 0️⃣4️⃣",
+                "رایگان | VMESS | @vless_vmess | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | VMESS | @v2Line | PL🇵🇱 | 0️⃣3️⃣",
                 "رایگان | VMESS | @FAKEOFTVC | CZ🇨🇿 | 0️⃣1️⃣"
             ],
@@ -227,6 +229,16 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | VMESS | @ShadowProxy66 | NO🇳🇴 | 0️⃣4️⃣"
+            ],
+            "url": "https:\/\/www.gstatic.com\/generate_204",
+            "interval": "5m",
+            "tolerance": 50
+        },
+        {
+            "tag": "DE🇩🇪",
+            "type": "urltest",
+            "outbounds": [
+                "رایگان | VMESS | @vless_vmess | DE🇩🇪 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -1308,6 +1320,42 @@
                 "path": "\/vmess",
                 "headers": {
                     "Host": "no1-vmess.sshmax.xyz"
+                },
+                "max_early_data": 0,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VMESS | @vless_vmess | DE🇩🇪 | 0️⃣2️⃣",
+            "type": "vmess",
+            "server": "104.21.83.208",
+            "server_port": 443,
+            "uuid": "f92628e9-c245-4dca-be18-b4a3b8fdb511",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "hayedeh.top",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "hayedeh.top"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
