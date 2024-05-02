@@ -107,13 +107,13 @@
                 "URL-TEST | رایگان",
                 "CA🇨🇦",
                 "NL🇳🇱",
-                "GB🇬🇧",
                 "JP🇯🇵",
+                "GB🇬🇧",
                 "PL🇵🇱",
                 "DE🇩🇪",
                 "AT🇦🇹",
-                "US🇺🇸",
-                "RU🇷🇺"
+                "RU🇷🇺",
+                "US🇺🇸"
             ]
         },
         {
@@ -123,16 +123,13 @@
                 "رایگان | SS | @VmessProtocol | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣3️⃣",
-                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣6️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | GB🇬🇧 | 0️⃣2️⃣",
-                "رایگان | SS | @proxy_mtm | GB🇬🇧 | 0️⃣5️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | JP🇯🇵 | 0️⃣1️⃣",
+                "رایگان | SS | @OutlineVpnOfficial | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣3️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | DE🇩🇪 | 0️⃣4️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | AT🇦🇹 | 0️⃣5️⃣",
-                "رایگان | SS | @proxy_mtm | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | SS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | SS | @kingofilter | RU🇷🇺 | 0️⃣1️⃣"
+                "رایگان | SS | @kingofilter | RU🇷🇺 | 0️⃣1️⃣",
+                "رایگان | SS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -160,22 +157,20 @@
             "tolerance": 50
         },
         {
-            "tag": "GB🇬🇧",
+            "tag": "JP🇯🇵",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣6️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | GB🇬🇧 | 0️⃣2️⃣",
-                "رایگان | SS | @proxy_mtm | GB🇬🇧 | 0️⃣5️⃣"
+                "رایگان | SS | @OutlineVpnOfficial | JP🇯🇵 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
             "tolerance": 50
         },
         {
-            "tag": "JP🇯🇵",
+            "tag": "GB🇬🇧",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @OutlineVpnOfficial | JP🇯🇵 | 0️⃣1️⃣"
+                "رایگان | SS | @OutlineVpnOfficial | GB🇬🇧 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -212,21 +207,20 @@
             "tolerance": 50
         },
         {
-            "tag": "US🇺🇸",
+            "tag": "RU🇷🇺",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @proxy_mtm | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | SS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣"
+                "رایگان | SS | @kingofilter | RU🇷🇺 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
             "tolerance": 50
         },
         {
-            "tag": "RU🇷🇺",
+            "tag": "US🇺🇸",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @kingofilter | RU🇷🇺 | 0️⃣1️⃣"
+                "رایگان | SS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -263,12 +257,12 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣6️⃣",
+            "tag": "رایگان | SS | @OutlineVpnOfficial | JP🇯🇵 | 0️⃣1️⃣",
             "type": "shadowsocks",
-            "server": "series-a2-mec.varzesh360.co",
+            "server": "154.47.20.240",
             "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "u17T3BvpYaaiuW2c",
+            "method": "aes-128-gcm",
+            "password": "shadowsocks",
             "plugin": "",
             "plugin_opts": ""
         },
@@ -279,26 +273,6 @@
             "server_port": 8080,
             "method": "aes-256-gcm",
             "password": "KixLvKzwjekG00rm",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @proxy_mtm | GB🇬🇧 | 0️⃣5️⃣",
-            "type": "shadowsocks",
-            "server": "series-a2-mec.samanehha.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "u17T3BvpYaaiuW2c",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @OutlineVpnOfficial | JP🇯🇵 | 0️⃣1️⃣",
-            "type": "shadowsocks",
-            "server": "154.47.20.240",
-            "server_port": 443,
-            "method": "aes-128-gcm",
-            "password": "shadowsocks",
             "plugin": "",
             "plugin_opts": ""
         },
@@ -333,12 +307,12 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @proxy_mtm | US🇺🇸 | 0️⃣2️⃣",
+            "tag": "رایگان | SS | @kingofilter | RU🇷🇺 | 0️⃣1️⃣",
             "type": "shadowsocks",
-            "server": "23.154.136.149",
-            "server_port": 9102,
-            "method": "aes-256-gcm",
-            "password": "e4FCWrgpkji3QY",
+            "server": "moscow.telegavpn.com",
+            "server_port": 60422,
+            "method": "chacha20-ietf-poly1305",
+            "password": "wU7DQyQfXiVRfQfCwd59iI",
             "plugin": "",
             "plugin_opts": ""
         },
@@ -349,16 +323,6 @@
             "server_port": 8882,
             "method": "aes-256-gcm",
             "password": "kDWvXYZoTBcGkC4",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @kingofilter | RU🇷🇺 | 0️⃣1️⃣",
-            "type": "shadowsocks",
-            "server": "moscow.telegavpn.com",
-            "server_port": 60422,
-            "method": "chacha20-ietf-poly1305",
-            "password": "wU7DQyQfXiVRfQfCwd59iI",
             "plugin": "",
             "plugin_opts": ""
         },
