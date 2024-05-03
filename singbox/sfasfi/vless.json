@@ -163,13 +163,13 @@
                 "رایگان | VLESS | @rxv2ray | CA🇨🇦 | 0️⃣6️⃣",
                 "رایگان | VLESS | @rxv2ray | CA🇨🇦 | 0️⃣7️⃣",
                 "رایگان | VLESS | @free_v2rayyy | CA🇨🇦 | 0️⃣1️⃣",
-                "رایگان | VLESS | @free_v2rayyy | CA🇨🇦 | 0️⃣2️⃣",
-                "رایگان | VLESS | @free_v2rayyy | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | VLESS | @polproxy | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | VLESS | @EliV2ray | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @EliV2ray | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @melov2ray | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @melov2ray | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @free_v2rayyy | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @free_v2rayyy | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @free_v2rayyy | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @free_v2rayyy | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @free_v2rayyy | US🇺🇸 | 0️⃣6️⃣",
@@ -495,8 +495,6 @@
                 "رایگان | VLESS | @rxv2ray | CA🇨🇦 | 0️⃣6️⃣",
                 "رایگان | VLESS | @rxv2ray | CA🇨🇦 | 0️⃣7️⃣",
                 "رایگان | VLESS | @free_v2rayyy | CA🇨🇦 | 0️⃣1️⃣",
-                "رایگان | VLESS | @free_v2rayyy | CA🇨🇦 | 0️⃣2️⃣",
-                "رایگان | VLESS | @free_v2rayyy | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | VLESS | @polproxy | CA🇨🇦 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -511,6 +509,8 @@
                 "رایگان | VLESS | @EliV2ray | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @melov2ray | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @melov2ray | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @free_v2rayyy | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @free_v2rayyy | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @free_v2rayyy | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @free_v2rayyy | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @free_v2rayyy | US🇺🇸 | 0️⃣6️⃣",
@@ -1909,52 +1909,6 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @free_v2rayyy | CA🇨🇦 | 0️⃣2️⃣",
-            "type": "vless",
-            "server": "172.66.213.5",
-            "server_port": 2086,
-            "uuid": "4592ddc3-3180-4399-bc2b-8b5326f00829",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn",
-                "headers": {
-                    "Host": "3.ftp.debian.org.www.speedtest.net.免费上网67.Site."
-                },
-                "max_early_data": 2048,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VLESS | @free_v2rayyy | CA🇨🇦 | 0️⃣3️⃣",
-            "type": "vless",
-            "server": "172.66.213.5",
-            "server_port": 2086,
-            "uuid": "bd018119-5168-4972-a79a-adab4aa1d775",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn",
-                "headers": {
-                    "Host": "3.ftp.debian.org.www.speedtest.net.免费上网67.Site."
-                },
-                "max_early_data": 2048,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
             "tag": "رایگان | VLESS | @polproxy | CA🇨🇦 | 0️⃣3️⃣",
             "type": "vless",
             "server": "23.227.60.130",
@@ -2073,6 +2027,52 @@
                     "Host": "de.过滤器.store."
                 },
                 "max_early_data": 0,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VLESS | @free_v2rayyy | US🇺🇸 | 0️⃣2️⃣",
+            "type": "vless",
+            "server": "172.66.213.5",
+            "server_port": 2086,
+            "uuid": "4592ddc3-3180-4399-bc2b-8b5326f00829",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn",
+                "headers": {
+                    "Host": "3.ftp.debian.org.www.speedtest.net.免费上网67.Site."
+                },
+                "max_early_data": 2048,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VLESS | @free_v2rayyy | US🇺🇸 | 0️⃣3️⃣",
+            "type": "vless",
+            "server": "172.66.213.5",
+            "server_port": 2086,
+            "uuid": "bd018119-5168-4972-a79a-adab4aa1d775",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn",
+                "headers": {
+                    "Host": "3.ftp.debian.org.www.speedtest.net.免费上网67.Site."
+                },
+                "max_early_data": 2048,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
             }
         },
