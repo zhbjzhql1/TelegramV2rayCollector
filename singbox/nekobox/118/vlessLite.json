@@ -291,6 +291,7 @@
                 "رایگان | VLESS | @v2rayngvpn | SE🇸🇪 | 0️⃣3️⃣",
                 "رایگان | VLESS | @v2rayngvpn | SE🇸🇪 | 0️⃣4️⃣",
                 "رایگان | VLESS | @v2rayngvpn | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @v2rayngvpn | IR🇮🇷 | 0️⃣6️⃣",
                 "رایگان | VLESS | @FalconPolV2rayNG | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | VLESS | @FalconPolV2rayNG | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣1️⃣",
@@ -625,6 +626,7 @@
                 "رایگان | VLESS | @v2rayngvpn | SE🇸🇪 | 0️⃣3️⃣",
                 "رایگان | VLESS | @v2rayngvpn | SE🇸🇪 | 0️⃣4️⃣",
                 "رایگان | VLESS | @v2rayngvpn | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @v2rayngvpn | IR🇮🇷 | 0️⃣6️⃣",
                 "رایگان | VLESS | @FalconPolV2rayNG | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | VLESS | @FalconPolV2rayNG | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣1️⃣",
@@ -5472,6 +5474,20 @@
             }
         },
         {
+            "tag": "رایگان | VLESS | @v2rayngvpn | IR🇮🇷 | 0️⃣6️⃣",
+            "type": "vless",
+            "server": "217.60.249.101",
+            "server_port": 2095,
+            "uuid": "2a4bfe79-b301-c477-a6a7-8929023b1e91",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "رایگان | VLESS | @FalconPolV2rayNG | DE🇩🇪 | 0️⃣1️⃣",
             "type": "vless",
             "server": "154.197.75.80",
@@ -7471,7 +7487,7 @@
             "type": "vless",
             "server": "185.146.173.58",
             "server_port": 80,
-            "uuid": "55e0d50c-e4dc-439d-bc21-012501746130",
+            "uuid": "5a401818-3977-49ce-90a0-bbf8b18f6f97",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -7491,6 +7507,29 @@
         },
         {
             "tag": "رایگان | VLESS | @polproxy | SE🇸🇪 | 0️⃣2️⃣",
+            "type": "vless",
+            "server": "185.146.173.58",
+            "server_port": 80,
+            "uuid": "55e0d50c-e4dc-439d-bc21-012501746130",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy",
+                "headers": {
+                    "Host": "v2ray-_-_-_-_-_-WWw.cafebazaar.ir.www.myket.ir.科斯涅過濾器.列列男事的事列上赛男.ONlinE."
+                },
+                "max_early_data": 2048,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VLESS | @polproxy | SE🇸🇪 | 0️⃣3️⃣",
             "type": "vless",
             "server": "185.146.173.58",
             "server_port": 8080,
@@ -7513,7 +7552,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @polproxy | SE🇸🇪 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @polproxy | SE🇸🇪 | 0️⃣4️⃣",
             "type": "vless",
             "server": "185.146.173.58",
             "server_port": 8080,
@@ -7536,7 +7575,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @polproxy | SE🇸🇪 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @polproxy | SE🇸🇪 | 0️⃣5️⃣",
             "type": "vless",
             "server": "185.146.173.58",
             "server_port": 8080,
@@ -7559,7 +7598,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @polproxy | SE🇸🇪 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @polproxy | SE🇸🇪 | 0️⃣6️⃣",
             "type": "vless",
             "server": "185.146.173.58",
             "server_port": 8080,
@@ -7582,34 +7621,11 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @polproxy | SE🇸🇪 | 0️⃣6️⃣",
-            "type": "vless",
-            "server": "185.146.173.58",
-            "server_port": 8080,
-            "uuid": "563af451-872e-4f76-bbac-7e22adea5fdb",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy",
-                "headers": {
-                    "Host": "v2ray-_-_-_-_-_-WWw.cafebazaar.ir.www.myket.ir.科斯涅過濾器.列列男事的事列上赛男.ONlinE."
-                },
-                "max_early_data": 2048,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
             "tag": "رایگان | VLESS | @polproxy | SE🇸🇪 | 0️⃣7️⃣",
             "type": "vless",
             "server": "185.146.173.58",
             "server_port": 8080,
-            "uuid": "85446cfd-709c-40aa-b131-41af8f04345d",
+            "uuid": "563af451-872e-4f76-bbac-7e22adea5fdb",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
