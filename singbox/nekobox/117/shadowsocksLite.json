@@ -112,11 +112,11 @@
                 "رایگان | SS | @OutlineVpnOfficial | FR🇫🇷 | 0️⃣4️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | CA🇨🇦 | 0️⃣5️⃣",
                 "رایگان | SS | @proxy_mtm | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | SS | @proxy_mtm | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | SS | @proxy_mtm | US🇺🇸 | 0️⃣3️⃣",
-                "رایگان | SS | @proxy_mtm | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | SS | @proxy_mtm | GB🇬🇧 | 0️⃣5️⃣",
-                "رایگان | SS | @proxy_mtm | CA🇨🇦 | 0️⃣6️⃣",
-                "رایگان | SS | @proxy_mtm | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | SS | @proxy_mtm | GB🇬🇧 | 0️⃣4️⃣",
+                "رایگان | SS | @proxy_mtm | CA🇨🇦 | 0️⃣5️⃣",
+                "رایگان | SS | @proxy_mtm | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | SS | @kingofilter | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @kingofilter | RU🇷🇺 | 0️⃣2️⃣",
                 "رایگان | SS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣",
@@ -135,11 +135,11 @@
                 "رایگان | SS | @OutlineVpnOfficial | FR🇫🇷 | 0️⃣4️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | CA🇨🇦 | 0️⃣5️⃣",
                 "رایگان | SS | @proxy_mtm | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | SS | @proxy_mtm | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | SS | @proxy_mtm | US🇺🇸 | 0️⃣3️⃣",
-                "رایگان | SS | @proxy_mtm | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | SS | @proxy_mtm | GB🇬🇧 | 0️⃣5️⃣",
-                "رایگان | SS | @proxy_mtm | CA🇨🇦 | 0️⃣6️⃣",
-                "رایگان | SS | @proxy_mtm | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | SS | @proxy_mtm | GB🇬🇧 | 0️⃣4️⃣",
+                "رایگان | SS | @proxy_mtm | CA🇨🇦 | 0️⃣5️⃣",
+                "رایگان | SS | @proxy_mtm | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | SS | @kingofilter | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @kingofilter | RU🇷🇺 | 0️⃣2️⃣",
                 "رایگان | SS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣",
@@ -221,7 +221,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @proxy_mtm | US🇺🇸 | 0️⃣3️⃣",
+            "tag": "رایگان | SS | @proxy_mtm | US🇺🇸 | 0️⃣2️⃣",
             "type": "shadowsocks",
             "server": "23.157.40.44",
             "server_port": 3389,
@@ -231,7 +231,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @proxy_mtm | US🇺🇸 | 0️⃣4️⃣",
+            "tag": "رایگان | SS | @proxy_mtm | US🇺🇸 | 0️⃣3️⃣",
             "type": "shadowsocks",
             "server": "23.157.40.81",
             "server_port": 7001,
@@ -241,7 +241,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @proxy_mtm | GB🇬🇧 | 0️⃣5️⃣",
+            "tag": "رایگان | SS | @proxy_mtm | GB🇬🇧 | 0️⃣4️⃣",
             "type": "shadowsocks",
             "server": "series-a2-mec.varzesh360.co",
             "server_port": 443,
@@ -251,7 +251,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @proxy_mtm | CA🇨🇦 | 0️⃣6️⃣",
+            "tag": "رایگان | SS | @proxy_mtm | CA🇨🇦 | 0️⃣5️⃣",
             "type": "shadowsocks",
             "server": "23.162.200.149",
             "server_port": 6679,
@@ -261,7 +261,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @proxy_mtm | US🇺🇸 | 0️⃣7️⃣",
+            "tag": "رایگان | SS | @proxy_mtm | US🇺🇸 | 0️⃣6️⃣",
             "type": "shadowsocks",
             "server": "23.154.136.213",
             "server_port": 7307,
