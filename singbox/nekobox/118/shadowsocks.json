@@ -117,6 +117,7 @@
                 "FR🇫🇷",
                 "PL🇵🇱",
                 "DE🇩🇪",
+                "AT🇦🇹",
                 "BH🇧🇭"
             ]
         },
@@ -137,6 +138,7 @@
                 "رایگان | SS | @OutlineVpnOfficial | DE🇩🇪 | 0️⃣5️⃣",
                 "رایگان | SS | @proxy_mtm | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | SS | @proxy_mtm | DE🇩🇪 | 0️⃣6️⃣",
+                "رایگان | SS | @OutlineVpnOfficial | AT🇦🇹 | 0️⃣6️⃣",
                 "رایگان | SS | @proxy_mtm | BH🇧🇭 | 0️⃣5️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -214,6 +216,16 @@
                 "رایگان | SS | @OutlineVpnOfficial | DE🇩🇪 | 0️⃣5️⃣",
                 "رایگان | SS | @proxy_mtm | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | SS | @proxy_mtm | DE🇩🇪 | 0️⃣6️⃣"
+            ],
+            "url": "https:\/\/www.gstatic.com\/generate_204",
+            "interval": "5m",
+            "tolerance": 50
+        },
+        {
+            "tag": "AT🇦🇹",
+            "type": "urltest",
+            "outbounds": [
+                "رایگان | SS | @OutlineVpnOfficial | AT🇦🇹 | 0️⃣6️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -356,6 +368,16 @@
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
             "password": "OnitWo9Hdq6Lyl17r1U1MCKZ1akwjb5zvgYsdwlxd4Q=",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @OutlineVpnOfficial | AT🇦🇹 | 0️⃣6️⃣",
+            "type": "shadowsocks",
+            "server": "94.228.169.114",
+            "server_port": 25663,
+            "method": "chacha20-ietf-poly1305",
+            "password": "1ef9jGvAyzXLLnjssRFr8M",
             "plugin": "",
             "plugin_opts": ""
         },
