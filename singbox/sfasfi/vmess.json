@@ -135,20 +135,18 @@
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣6️⃣",
-                "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @v2rayng_config_amin | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @v2Line | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VMESS | @v2Line | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VMESS | @v2Line | US🇺🇸 | 0️⃣5️⃣",
-                "رایگان | VMESS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @ROMAX_VPN | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | VMESS | @ROMAX_VPN | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VMESS | @prrofile_purple | GB🇬🇧 | 0️⃣3️⃣",
                 "رایگان | VMESS | @v2ray1_ng | GB🇬🇧 | 0️⃣1️⃣",
-                "رایگان | VMESS | @Hope_Net | GB🇬🇧 | 0️⃣5️⃣",
                 "رایگان | VMESS | @v2Line | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | VMESS | @v2ray_swhil | IR🇮🇷 | 0️⃣3️⃣",
-                "رایگان | VMESS | @ROMAX_VPN | FR🇫🇷 | 0️⃣3️⃣"
+                "رایگان | VMESS | @ROMAX_VPN | FR🇫🇷 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -177,14 +175,13 @@
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣6️⃣",
-                "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @v2rayng_config_amin | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @v2Line | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VMESS | @v2Line | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VMESS | @v2Line | US🇺🇸 | 0️⃣5️⃣",
-                "رایگان | VMESS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | VMESS | @ROMAX_VPN | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | VMESS | @ROMAX_VPN | US🇺🇸 | 0️⃣4️⃣"
+                "رایگان | VMESS | @ROMAX_VPN | US🇺🇸 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -196,7 +193,6 @@
             "outbounds": [
                 "رایگان | VMESS | @prrofile_purple | GB🇬🇧 | 0️⃣3️⃣",
                 "رایگان | VMESS | @v2ray1_ng | GB🇬🇧 | 0️⃣1️⃣",
-                "رایگان | VMESS | @Hope_Net | GB🇬🇧 | 0️⃣5️⃣",
                 "رایگان | VMESS | @v2Line | GB🇬🇧 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -217,7 +213,7 @@
             "tag": "FR🇫🇷",
             "type": "urltest",
             "outbounds": [
-                "رایگان | VMESS | @ROMAX_VPN | FR🇫🇷 | 0️⃣3️⃣"
+                "رایگان | VMESS | @ROMAX_VPN | FR🇫🇷 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -779,11 +775,28 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣6️⃣",
+            "tag": "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣1️⃣",
             "type": "vmess",
-            "server": "104.26.6.65",
-            "server_port": 2053,
-            "uuid": "869caccc-12af-4276-f458-366fa256f8a0",
+            "server": "172.233.164.32",
+            "server_port": 39841,
+            "uuid": "4242d74d-b748-4e74-a7c2-2bfb9d6ed121",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣2️⃣",
+            "type": "vmess",
+            "server": "108.162.192.100",
+            "server_port": 8080,
+            "uuid": "4f1f8f1e-926c-4edb-a398-8627110973f1",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -794,23 +807,13 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "qin15.rong1104.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "\/qin15",
+                "path": "\/aries",
                 "headers": {
-                    "Host": "qin15.rong1104.uk"
+                    "Host": "do-au.alipay.ovh"
                 },
-                "max_early_data": 0,
+                "max_early_data": 2048,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
             }
         },
@@ -959,41 +962,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣",
-            "type": "vmess",
-            "server": "142.0.134.241",
-            "server_port": 45017,
-            "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
-            "security": "auto",
-            "alter_id": 64,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
             "tag": "رایگان | VMESS | @ROMAX_VPN | US🇺🇸 | 0️⃣2️⃣",
-            "type": "vmess",
-            "server": "107.148.192.148",
-            "server_port": 41911,
-            "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
-            "security": "auto",
-            "alter_id": 64,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "رایگان | VMESS | @ROMAX_VPN | US🇺🇸 | 0️⃣4️⃣",
             "type": "vmess",
             "server": "172.67.207.26",
             "server_port": 443,
@@ -1081,32 +1050,6 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @Hope_Net | GB🇬🇧 | 0️⃣5️⃣",
-            "type": "vmess",
-            "server": "185.146.173.146",
-            "server_port": 2052,
-            "uuid": "8d8dfad3-ce9c-43f3-a7c8-4533e5153632",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@mehrosaboran",
-                "headers": {
-                    "Host": "xn--047h.aaa.merosaboran.monster."
-                },
-                "max_early_data": 0,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
             "tag": "رایگان | VMESS | @v2Line | GB🇬🇧 | 0️⃣1️⃣",
             "type": "vmess",
             "server": "172.99.190.12",
@@ -1141,7 +1084,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @ROMAX_VPN | FR🇫🇷 | 0️⃣3️⃣",
+            "tag": "رایگان | VMESS | @ROMAX_VPN | FR🇫🇷 | 0️⃣1️⃣",
             "type": "vmess",
             "server": "172.67.204.84",
             "server_port": 2082,
