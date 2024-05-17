@@ -115,6 +115,7 @@
                 "FR🇫🇷",
                 "IL🇮🇱",
                 "GB🇬🇧",
+                "RU🇷🇺",
                 "PL🇵🇱",
                 "DE🇩🇪",
                 "SE🇸🇪",
@@ -154,7 +155,6 @@
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | VMESS | @v2rayng_config_amin | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @v2Line | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @v2Line | US🇺🇸 | 0️⃣4️⃣",
@@ -350,6 +350,7 @@
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | GB🇬🇧 | 0️⃣7️⃣",
+                "رایگان | VMESS | @ShadowProxy66 | RU🇷🇺 | 0️⃣4️⃣",
                 "رایگان | VMESS | @v2Line | PL🇵🇱 | 0️⃣1️⃣",
                 "رایگان | REALITY | @EliV2ray | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | VLESS | @VlessConfig | DE🇩🇪 | 0️⃣1️⃣",
@@ -392,6 +393,7 @@
                 "رایگان | VLESS | @rxv2ray | SE🇸🇪 | 0️⃣4️⃣",
                 "رایگان | VLESS | @rxv2ray | SE🇸🇪 | 0️⃣5️⃣",
                 "رایگان | VLESS | @rxv2ray | SE🇸🇪 | 0️⃣6️⃣",
+                "رایگان | VLESS | @rxv2ray | SE🇸🇪 | 0️⃣7️⃣",
                 "رایگان | VLESS | @free_v2rayyy | SE🇸🇪 | 0️⃣1️⃣",
                 "رایگان | VLESS | @free_v2rayyy | SE🇸🇪 | 0️⃣2️⃣",
                 "رایگان | VLESS | @free_v2rayyy | SE🇸🇪 | 0️⃣3️⃣",
@@ -539,7 +541,6 @@
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | VMESS | @v2rayng_config_amin | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @v2Line | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @v2Line | US🇺🇸 | 0️⃣4️⃣",
@@ -777,6 +778,16 @@
             "tolerance": 50
         },
         {
+            "tag": "RU🇷🇺",
+            "type": "urltest",
+            "outbounds": [
+                "رایگان | VMESS | @ShadowProxy66 | RU🇷🇺 | 0️⃣4️⃣"
+            ],
+            "url": "https:\/\/www.gstatic.com\/generate_204",
+            "interval": "5m",
+            "tolerance": 50
+        },
+        {
             "tag": "PL🇵🇱",
             "type": "urltest",
             "outbounds": [
@@ -840,6 +851,7 @@
                 "رایگان | VLESS | @rxv2ray | SE🇸🇪 | 0️⃣4️⃣",
                 "رایگان | VLESS | @rxv2ray | SE🇸🇪 | 0️⃣5️⃣",
                 "رایگان | VLESS | @rxv2ray | SE🇸🇪 | 0️⃣6️⃣",
+                "رایگان | VLESS | @rxv2ray | SE🇸🇪 | 0️⃣7️⃣",
                 "رایگان | VLESS | @free_v2rayyy | SE🇸🇪 | 0️⃣1️⃣",
                 "رایگان | VLESS | @free_v2rayyy | SE🇸🇪 | 0️⃣2️⃣",
                 "رایگان | VLESS | @free_v2rayyy | SE🇸🇪 | 0️⃣3️⃣",
@@ -1701,32 +1713,6 @@
                     "Host": "teams.microsoft.com"
                 },
                 "max_early_data": 0,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣6️⃣",
-            "type": "vmess",
-            "server": "104.19.52.255",
-            "server_port": 80,
-            "uuid": "c0453a16-67e9-4eab-bdc9-b9624ad6bd29",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/&Telegram🇨🇳 @WangCai_8",
-                "headers": {
-                    "Host": "in.xlb8.eu.org"
-                },
-                "max_early_data": 2048,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
             }
         },
@@ -7147,6 +7133,23 @@
             "plugin_opts": ""
         },
         {
+            "tag": "رایگان | VMESS | @ShadowProxy66 | RU🇷🇺 | 0️⃣4️⃣",
+            "type": "vmess",
+            "server": "46.17.45.13",
+            "server_port": 17697,
+            "uuid": "558ff688-d70d-4219-9e59-748289528256",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "رایگان | VMESS | @v2Line | PL🇵🇱 | 0️⃣1️⃣",
             "type": "vmess",
             "server": "146.59.17.58",
@@ -8068,7 +8071,7 @@
             "type": "vless",
             "server": "185.146.173.237",
             "server_port": 80,
-            "uuid": "90ca39e3-1efb-4836-a1db-5e63b835845f",
+            "uuid": "d2a0ff68-2731-4e6f-97e9-ecdc6c2a22f6",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -8091,7 +8094,7 @@
             "type": "vless",
             "server": "185.146.173.237",
             "server_port": 80,
-            "uuid": "3d98d3b1-be43-49ba-a660-e9ed4ca6a383",
+            "uuid": "90ca39e3-1efb-4836-a1db-5e63b835845f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -8111,6 +8114,29 @@
         },
         {
             "tag": "رایگان | VLESS | @rxv2ray | SE🇸🇪 | 0️⃣6️⃣",
+            "type": "vless",
+            "server": "185.146.173.237",
+            "server_port": 80,
+            "uuid": "3d98d3b1-be43-49ba-a660-e9ed4ca6a383",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/rxv2ray-rxv2ray-rxv2ray-rxv2ray",
+                "headers": {
+                    "Host": "www.iran.ir.科斯涅過濾器.website."
+                },
+                "max_early_data": 2048,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VLESS | @rxv2ray | SE🇸🇪 | 0️⃣7️⃣",
             "type": "vless",
             "server": "185.146.173.237",
             "server_port": 80,
