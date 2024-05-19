@@ -111,10 +111,8 @@
                 "FR🇫🇷",
                 "KZ🇰🇿",
                 "IL🇮🇱",
-                "JP🇯🇵",
                 "GB🇬🇧",
                 "RU🇷🇺",
-                "IR🇮🇷",
                 "PL🇵🇱"
             ]
         },
@@ -127,7 +125,7 @@
                 "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VMESS | @prrofile_purple | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @prrofile_purple | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣3️⃣",
@@ -155,11 +153,9 @@
                 "رایگان | VMESS | @DeamNet_Proxy | FR🇫🇷 | 0️⃣3️⃣",
                 "رایگان | VMESS | @DeamNet_Proxy | KZ🇰🇿 | 0️⃣4️⃣",
                 "رایگان | VMESS | @DeamNet_Proxy | IL🇮🇱 | 0️⃣5️⃣",
-                "رایگان | VMESS | @oneclickvpnkeys | JP🇯🇵 | 0️⃣5️⃣",
                 "رایگان | VMESS | @prrofile_purple | GB🇬🇧 | 0️⃣4️⃣",
                 "رایگان | VMESS | @v2ray1_ng | GB🇬🇧 | 0️⃣3️⃣",
                 "رایگان | VMESS | @ShadowProxy66 | RU🇷🇺 | 0️⃣6️⃣",
-                "رایگان | VMESS | @v2ray_swhil | IR🇮🇷 | 0️⃣3️⃣",
                 "رایگان | VMESS | @v2Line | PL🇵🇱 | 0️⃣4️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -175,7 +171,7 @@
                 "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VMESS | @prrofile_purple | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @prrofile_purple | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣3️⃣",
@@ -245,16 +241,6 @@
             "tolerance": 50
         },
         {
-            "tag": "JP🇯🇵",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | VMESS | @oneclickvpnkeys | JP🇯🇵 | 0️⃣5️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
             "tag": "GB🇬🇧",
             "type": "urltest",
             "outbounds": [
@@ -270,16 +256,6 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | VMESS | @ShadowProxy66 | RU🇷🇺 | 0️⃣6️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "IR🇮🇷",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | VMESS | @v2ray_swhil | IR🇮🇷 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -476,7 +452,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣6️⃣",
+            "tag": "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣5️⃣",
             "type": "vmess",
             "server": "104.21.83.208",
             "server_port": 443,
@@ -1344,23 +1320,6 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @oneclickvpnkeys | JP🇯🇵 | 0️⃣5️⃣",
-            "type": "vmess",
-            "server": "158.51.111.114",
-            "server_port": 32365,
-            "uuid": "f956a5d9-1f30-4f89-adc8-4286f4a3eb16",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
             "tag": "رایگان | VMESS | @prrofile_purple | GB🇬🇧 | 0️⃣4️⃣",
             "type": "vmess",
             "server": "185.146.173.237",
@@ -1418,23 +1377,6 @@
             "server": "46.17.45.13",
             "server_port": 33879,
             "uuid": "3d453a46-b501-4882-8cd0-3c3e0698f90f",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "رایگان | VMESS | @v2ray_swhil | IR🇮🇷 | 0️⃣3️⃣",
-            "type": "vmess",
-            "server": "cdn2.wikihost.info",
-            "server_port": 80,
-            "uuid": "2b7ce1d2-0372-4104-aa06-f7d999f26e1d",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
