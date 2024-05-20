@@ -226,7 +226,7 @@
                 "رایگان | VLESS | @CUSTOMVPNSERVER | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @CUSTOMVPNSERVER | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @CUSTOMVPNSERVER | US🇺🇸 | 0️⃣3️⃣",
-                "رایگان | VLESS | @CUSTOMVPNSERVER | CA🇨🇦 | 0️⃣4️⃣",
+                "رایگان | VLESS | @CUSTOMVPNSERVER | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @DigiV2ray | SE🇸🇪 | 0️⃣1️⃣",
                 "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @DigiV2ray | SE🇸🇪 | 0️⃣3️⃣",
@@ -477,8 +477,8 @@
                 "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣",
-                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣3️⃣",
-                "رایگان | SS | @VmessProtocol | AE🇦🇪 | 0️⃣4️⃣",
+                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣4️⃣",
+                "رایگان | SS | @VmessProtocol | AE🇦🇪 | 0️⃣5️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | TR🇹🇷 | 0️⃣3️⃣",
@@ -615,7 +615,7 @@
                 "رایگان | VLESS | @CUSTOMVPNSERVER | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @CUSTOMVPNSERVER | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @CUSTOMVPNSERVER | US🇺🇸 | 0️⃣3️⃣",
-                "رایگان | VLESS | @CUSTOMVPNSERVER | CA🇨🇦 | 0️⃣4️⃣",
+                "رایگان | VLESS | @CUSTOMVPNSERVER | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @DigiV2ray | SE🇸🇪 | 0️⃣1️⃣",
                 "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @DigiV2ray | SE🇸🇪 | 0️⃣3️⃣",
@@ -866,8 +866,8 @@
                 "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣",
-                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣3️⃣",
-                "رایگان | SS | @VmessProtocol | AE🇦🇪 | 0️⃣4️⃣",
+                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣4️⃣",
+                "رایگان | SS | @VmessProtocol | AE🇦🇪 | 0️⃣5️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | TR🇹🇷 | 0️⃣3️⃣",
@@ -3987,7 +3987,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @CUSTOMVPNSERVER | CA🇨🇦 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @CUSTOMVPNSERVER | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "UK.IPCLOUD.SHOP",
             "server_port": 443,
@@ -10629,7 +10629,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣3️⃣",
+            "tag": "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣4️⃣",
             "type": "shadowsocks",
             "server": "series-a1.samanehha.co",
             "server_port": 443,
@@ -10639,7 +10639,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @VmessProtocol | AE🇦🇪 | 0️⃣4️⃣",
+            "tag": "رایگان | SS | @VmessProtocol | AE🇦🇪 | 0️⃣5️⃣",
             "type": "shadowsocks",
             "server": "series-a2-mec.samanehha.co",
             "server_port": 443,
