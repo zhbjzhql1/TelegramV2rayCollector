@@ -107,8 +107,8 @@
                 "URL-TEST | رایگان",
                 "US🇺🇸",
                 "BE🇧🇪",
-                "DE🇩🇪",
                 "FR🇫🇷",
+                "DE🇩🇪",
                 "UA🇺🇦"
             ]
         },
@@ -120,8 +120,8 @@
                 "رایگان | VMESS | @mftizi | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @mftizi | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VMESS | @prrofile_purple | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VMESS | @prrofile_purple | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VMESS | @prrofile_purple | US🇺🇸 | 0️⃣5️⃣",
@@ -149,10 +149,11 @@
                 "رایگان | VMESS | @ROMAX_VPN | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VMESS | @oneclickvpnkeys | BE🇧🇪 | 0️⃣1️⃣",
                 "رایگان | VMESS | @ROMAX_VPN | BE🇧🇪 | 0️⃣1️⃣",
+                "رایگان | VMESS | @oneclickvpnkeys | FR🇫🇷 | 0️⃣3️⃣",
                 "رایگان | VMESS | @prrofile_purple | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | VMESS | @Hope_Net | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | VMESS | @Hope_Net | DE🇩🇪 | 0️⃣5️⃣",
-                "رایگان | VMESS | @Hope_Net | FR🇫🇷 | 0️⃣3️⃣",
+                "رایگان | VMESS | @Hope_Net | DE🇩🇪 | 0️⃣3️⃣",
+                "رایگان | VMESS | @FreakConfig | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | VMESS | @ROMAX_VPN | UA🇺🇦 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -167,8 +168,8 @@
                 "رایگان | VMESS | @mftizi | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @mftizi | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VMESS | @prrofile_purple | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VMESS | @prrofile_purple | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VMESS | @prrofile_purple | US🇺🇸 | 0️⃣5️⃣",
@@ -211,22 +212,23 @@
             "tolerance": 50
         },
         {
-            "tag": "DE🇩🇪",
+            "tag": "FR🇫🇷",
             "type": "urltest",
             "outbounds": [
-                "رایگان | VMESS | @prrofile_purple | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | VMESS | @Hope_Net | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | VMESS | @Hope_Net | DE🇩🇪 | 0️⃣5️⃣"
+                "رایگان | VMESS | @oneclickvpnkeys | FR🇫🇷 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
             "tolerance": 50
         },
         {
-            "tag": "FR🇫🇷",
+            "tag": "DE🇩🇪",
             "type": "urltest",
             "outbounds": [
-                "رایگان | VMESS | @Hope_Net | FR🇫🇷 | 0️⃣3️⃣"
+                "رایگان | VMESS | @prrofile_purple | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | VMESS | @Hope_Net | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | VMESS | @Hope_Net | DE🇩🇪 | 0️⃣3️⃣",
+                "رایگان | VMESS | @FreakConfig | DE🇩🇪 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -246,8 +248,8 @@
             "tag": "رایگان | VMESS | @mftizi | US🇺🇸 | 0️⃣1️⃣",
             "type": "vmess",
             "server": "cfcdn1.sanfencdn9.com",
-            "server_port": 2095,
-            "uuid": "a1285794-a9fd-4423-83f5-aeecc84dd76d",
+            "server_port": 2052,
+            "uuid": "8c7b39d2-eb80-48d4-9471-76bddc5273c8",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -260,9 +262,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/video\/qYZue4zaWS",
+                "path": "\/video\/6VBhAkCtV4\/",
                 "headers": {
-                    "Host": "us82pRzxDMb.fzbqfrse.xyz"
+                    "Host": "us1cPZiz8nb.fzbqfrse.xyz"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -271,9 +273,9 @@
         {
             "tag": "رایگان | VMESS | @mftizi | US🇺🇸 | 0️⃣2️⃣",
             "type": "vmess",
-            "server": "cfcdn2.sanfencdn9.com",
-            "server_port": 2052,
-            "uuid": "a1285794-a9fd-4423-83f5-aeecc84dd76d",
+            "server": "cfcdn3.sanfencdn9.com",
+            "server_port": 80,
+            "uuid": "8c7b39d2-eb80-48d4-9471-76bddc5273c8",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -286,9 +288,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/video\/c9efxRCi",
+                "path": "\/video\/VDXcaM7r",
                 "headers": {
-                    "Host": "7nAi74jJsg1.yofnhkfc.xyz"
+                    "Host": "GWYp69Yujp2.yofnhkfc.xyz"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -297,9 +299,9 @@
         {
             "tag": "رایگان | VMESS | @mftizi | US🇺🇸 | 0️⃣3️⃣",
             "type": "vmess",
-            "server": "cfcdn3.sanfencdn9.com",
+            "server": "cfcdn1.sanfencdn9.com",
             "server_port": 2052,
-            "uuid": "a1285794-a9fd-4423-83f5-aeecc84dd76d",
+            "uuid": "8c7b39d2-eb80-48d4-9471-76bddc5273c8",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -312,9 +314,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/video\/Zo98PYfE",
+                "path": "\/video\/GQ2qE5Us9g",
                 "headers": {
-                    "Host": "kvjqqknzjp6.yofnhkfc.xyz"
+                    "Host": "tw1bQiWSE4x.fzbqfrse.xyz"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -357,7 +359,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣3️⃣",
+            "tag": "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣4️⃣",
             "type": "vmess",
             "server": "172.67.170.103",
             "server_port": 443,
@@ -393,7 +395,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣4️⃣",
+            "tag": "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣5️⃣",
             "type": "vmess",
             "server": "104.21.4.6",
             "server_port": 443,
@@ -1234,6 +1236,32 @@
             }
         },
         {
+            "tag": "رایگان | VMESS | @oneclickvpnkeys | FR🇫🇷 | 0️⃣3️⃣",
+            "type": "vmess",
+            "server": "190.93.247.155",
+            "server_port": 80,
+            "uuid": "9055a074-a533-4e90-840b-3004a92ae9c0",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/vmess",
+                "headers": {
+                    "Host": "Fr2.vmess.site."
+                },
+                "max_early_data": 0,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
             "tag": "رایگان | VMESS | @prrofile_purple | DE🇩🇪 | 0️⃣1️⃣",
             "type": "vmess",
             "server": "185.146.173.32",
@@ -1261,6 +1289,23 @@
         },
         {
             "tag": "رایگان | VMESS | @Hope_Net | DE🇩🇪 | 0️⃣1️⃣",
+            "type": "vmess",
+            "server": "185.39.51.6",
+            "server_port": 54506,
+            "uuid": "f364f4a0-920c-49fa-a7ab-d150bf7ef1b1",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "رایگان | VMESS | @Hope_Net | DE🇩🇪 | 0️⃣3️⃣",
             "type": "vmess",
             "server": "visa.com",
             "server_port": 443,
@@ -1296,7 +1341,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @Hope_Net | DE🇩🇪 | 0️⃣5️⃣",
+            "tag": "رایگان | VMESS | @FreakConfig | DE🇩🇪 | 0️⃣1️⃣",
             "type": "vmess",
             "server": "zula.ir",
             "server_port": 443,
@@ -1326,32 +1371,6 @@
                 "path": "\/vmess",
                 "headers": {
                     "Host": "de3.v2vmess.site"
-                },
-                "max_early_data": 0,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VMESS | @Hope_Net | FR🇫🇷 | 0️⃣3️⃣",
-            "type": "vmess",
-            "server": "190.93.247.155",
-            "server_port": 80,
-            "uuid": "9055a074-a533-4e90-840b-3004a92ae9c0",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/vmess",
-                "headers": {
-                    "Host": "Fr2.vmess.site."
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
