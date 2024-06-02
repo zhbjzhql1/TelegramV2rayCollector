@@ -292,20 +292,20 @@
         {
             "tag": "رایگان | SS | @proxy_mtm | NL🇳🇱 | 0️⃣1️⃣",
             "type": "shadowsocks",
-            "server": "188.212.132.20",
-            "server_port": 52952,
+            "server": "45.158.171.129",
+            "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
-            "password": "LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj",
+            "password": "a8bt9fY0QsLS6eLnXUe0Ym",
             "plugin": "",
             "plugin_opts": ""
         },
         {
             "tag": "رایگان | SS | @proxy_mtm | NL🇳🇱 | 0️⃣2️⃣",
             "type": "shadowsocks",
-            "server": "45.158.171.129",
-            "server_port": 8080,
+            "server": "188.212.132.20",
+            "server_port": 52952,
             "method": "chacha20-ietf-poly1305",
-            "password": "a8bt9fY0QsLS6eLnXUe0Ym",
+            "password": "LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj",
             "plugin": "",
             "plugin_opts": ""
         },
