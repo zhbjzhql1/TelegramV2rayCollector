@@ -117,8 +117,7 @@
                 "TR🇹🇷",
                 "US🇺🇸",
                 "PL🇵🇱",
-                "RU🇷🇺",
-                "CN🇨🇳"
+                "RU🇷🇺"
             ]
         },
         {
@@ -149,11 +148,9 @@
                 "رایگان | TROJAN | @VmessProtocol | NL🇳🇱 | 0️⃣4️⃣",
                 "رایگان | TROJAN | @VmessProtocol | TR🇹🇷 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @ConfigsHUB | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @VmessProtocol | PL🇵🇱 | 0️⃣5️⃣",
                 "رایگان | TROJAN | @VmessProtocol | PL🇵🇱 | 0️⃣6️⃣",
-                "رایگان | TROJAN | @VmessProtocol | RU🇷🇺 | 0️⃣7️⃣",
-                "رایگان | TROJAN | @yaney_01 | CN🇨🇳 | 0️⃣1️⃣"
+                "رایگان | TROJAN | @VmessProtocol | RU🇷🇺 | 0️⃣7️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -267,8 +264,7 @@
             "tag": "US🇺🇸",
             "type": "urltest",
             "outbounds": [
-                "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @ConfigsHUB | US🇺🇸 | 0️⃣1️⃣"
+                "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -290,16 +286,6 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | TROJAN | @VmessProtocol | RU🇷🇺 | 0️⃣7️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "CN🇨🇳",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | TROJAN | @yaney_01 | CN🇨🇳 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -810,34 +796,6 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @ConfigsHUB | US🇺🇸 | 0️⃣1️⃣",
-            "type": "trojan",
-            "server": "104.17.147.8",
-            "server_port": 443,
-            "password": "4aec4e7f8cf8454ea4613659822e1a61",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "jobscareerforstudent.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/6b777a91",
-                "headers": {
-                    "Host": "jobscareerforstudent.com"
-                }
-            }
-        },
-        {
             "tag": "رایگان | TROJAN | @VmessProtocol | PL🇵🇱 | 0️⃣5️⃣",
             "type": "trojan",
             "server": "151.115.83.239",
@@ -898,18 +856,6 @@
                     "enabled": true,
                     "fingerprint": "chrome"
                 }
-            }
-        },
-        {
-            "tag": "رایگان | TROJAN | @yaney_01 | CN🇨🇳 | 0️⃣1️⃣",
-            "type": "trojan",
-            "server": "df.xiguajiasu.xyz",
-            "server_port": 46002,
-            "password": "4ea1d07c-41c2-42b5-954d-414fee051856",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
