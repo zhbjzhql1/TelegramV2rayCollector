@@ -111,11 +111,9 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "رایگان | REALITY | @customv2ray | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | REALITY | @vless_vmess | KR🇰🇷 | 0️⃣3️⃣",
+                "رایگان | REALITY | @vless_vmess | KR🇰🇷 | 0️⃣2️⃣",
                 "رایگان | REALITY | @VmessProtocol | EE🇪🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @VmessProtocol | FR🇫🇷 | 0️⃣4️⃣",
-                "رایگان | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣5️⃣",
-                "رایگان | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣6️⃣",
                 "رایگان | REALITY | @FAKEOFTVC | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @FAKEOFTVC | DE🇩🇪 | 0️⃣3️⃣"
             ]
@@ -125,11 +123,9 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | REALITY | @customv2ray | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | REALITY | @vless_vmess | KR🇰🇷 | 0️⃣3️⃣",
+                "رایگان | REALITY | @vless_vmess | KR🇰🇷 | 0️⃣2️⃣",
                 "رایگان | REALITY | @VmessProtocol | EE🇪🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @VmessProtocol | FR🇫🇷 | 0️⃣4️⃣",
-                "رایگان | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣5️⃣",
-                "رایگان | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣6️⃣",
                 "رایگان | REALITY | @FAKEOFTVC | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @FAKEOFTVC | DE🇩🇪 | 0️⃣3️⃣"
             ],
@@ -166,7 +162,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @vless_vmess | KR🇰🇷 | 0️⃣3️⃣",
+            "tag": "رایگان | REALITY | @vless_vmess | KR🇰🇷 | 0️⃣2️⃣",
             "type": "vless",
             "server": "132.226.172.147",
             "server_port": 62001,
@@ -254,62 +250,6 @@
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣5️⃣",
-            "type": "vless",
-            "server": "194.195.245.94",
-            "server_port": 443,
-            "uuid": "98b20c65-91ee-4ec2-9fe2-f6e6d8a19678",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "androidstar.ir",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "vgdXg4IhfRkQr5dz2Vr7BLeChU_Q1O_B9oaMz1H8yA8",
-                    "short_id": "f7a1e4a6"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣6️⃣",
-            "type": "vless",
-            "server": "192.248.184.178",
-            "server_port": 443,
-            "uuid": "2f7122e2-39f0-4c5b-813a-3d581b579636",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "androidstar.ir",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "wGbITLZZbmAZV_su8RmS8yRnG0Pl3I_wRtM2_PKc_nI",
-                    "short_id": "ff2fd4fa"
-                }
             }
         },
         {
