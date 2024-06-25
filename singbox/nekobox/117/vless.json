@@ -365,6 +365,7 @@
                 "رایگان | VLESS | @lrnbymaa | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @ConfigsHUB | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @ConfigsHUB | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @ConfigsHUB | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @proxystore11 | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @proxystore11 | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @proxystore11 | US🇺🇸 | 0️⃣5️⃣",
@@ -701,6 +702,7 @@
                 "رایگان | VLESS | @lrnbymaa | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @ConfigsHUB | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @ConfigsHUB | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @ConfigsHUB | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @proxystore11 | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @proxystore11 | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @proxystore11 | US🇺🇸 | 0️⃣5️⃣",
@@ -6858,38 +6860,6 @@
         {
             "tag": "رایگان | VLESS | @ConfigsHUB | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
-            "server": "188.114.96.6",
-            "server_port": 443,
-            "uuid": "601899cf-ed90-433d-9ccd-9fcd2c0cfcac",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "DisVpn.us.kg",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/---------DisVpn---------DisVpn---------DisVpn",
-                "headers": {
-                    "Host": "DisVpn.us.kg"
-                },
-                "max_early_data": 0,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VLESS | @ConfigsHUB | US🇺🇸 | 0️⃣3️⃣",
-            "type": "vless",
             "server": "188.114.96.3",
             "server_port": 443,
             "uuid": "601899cf-ed90-433d-9ccd-9fcd2c0cfcac",
@@ -6914,6 +6884,70 @@
                 "path": "\/---------DisVpn---------DisVpn---------DisVpn",
                 "headers": {
                     "Host": "join-v2rey.pages.dev"
+                },
+                "max_early_data": 0,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VLESS | @ConfigsHUB | US🇺🇸 | 0️⃣3️⃣",
+            "type": "vless",
+            "server": "172.67.152.111",
+            "server_port": 443,
+            "uuid": "9f70a4c0-f727-47fb-ba7d-d604dba9669c",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "worker-little-leaf-7f8e.foxici5037.workers.Dev",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/TELEGRAM-MARAMBASHI\/",
+                "headers": {
+                    "Host": "worker-little-leaf-7f8e.foxici5037.workers.Dev"
+                },
+                "max_early_data": 2048,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VLESS | @ConfigsHUB | US🇺🇸 | 0️⃣5️⃣",
+            "type": "vless",
+            "server": "188.114.96.6",
+            "server_port": 443,
+            "uuid": "601899cf-ed90-433d-9ccd-9fcd2c0cfcac",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "DisVpn.us.kg",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/---------DisVpn---------DisVpn---------DisVpn",
+                "headers": {
+                    "Host": "DisVpn.us.kg"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
