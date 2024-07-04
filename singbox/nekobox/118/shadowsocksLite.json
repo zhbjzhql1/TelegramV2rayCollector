@@ -111,6 +111,7 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣",
+                "رایگان | SS | @VmessProtocol | AE🇦🇪 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | KZ🇰🇿 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | IT🇮🇹 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | HU🇭🇺 | 0️⃣3️⃣",
@@ -121,8 +122,9 @@
                 "رایگان | SS | @FAKEOFTVC | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | SS | @proxy_mtm | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @proxy_mtm | NL🇳🇱 | 0️⃣2️⃣",
-                "رایگان | SS | @proxy_mtm | NL🇳🇱 | 0️⃣4️⃣",
-                "رایگان | SS | @proxy_mtm | GB🇬🇧 | 0️⃣5️⃣",
+                "رایگان | SS | @proxy_mtm | AE🇦🇪 | 0️⃣3️⃣",
+                "رایگان | SS | @proxy_mtm | NL🇳🇱 | 0️⃣5️⃣",
+                "رایگان | SS | @proxy_mtm | GB🇬🇧 | 0️⃣6️⃣",
                 "رایگان | SS | @kingofilter | FR🇫🇷 | 0️⃣3️⃣",
                 "رایگان | SS | @kingofilter | AT🇦🇹 | 0️⃣4️⃣"
             ]
@@ -132,6 +134,7 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣",
+                "رایگان | SS | @VmessProtocol | AE🇦🇪 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | KZ🇰🇿 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | IT🇮🇹 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | HU🇭🇺 | 0️⃣3️⃣",
@@ -142,8 +145,9 @@
                 "رایگان | SS | @FAKEOFTVC | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | SS | @proxy_mtm | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @proxy_mtm | NL🇳🇱 | 0️⃣2️⃣",
-                "رایگان | SS | @proxy_mtm | NL🇳🇱 | 0️⃣4️⃣",
-                "رایگان | SS | @proxy_mtm | GB🇬🇧 | 0️⃣5️⃣",
+                "رایگان | SS | @proxy_mtm | AE🇦🇪 | 0️⃣3️⃣",
+                "رایگان | SS | @proxy_mtm | NL🇳🇱 | 0️⃣5️⃣",
+                "رایگان | SS | @proxy_mtm | GB🇬🇧 | 0️⃣6️⃣",
                 "رایگان | SS | @kingofilter | FR🇫🇷 | 0️⃣3️⃣",
                 "رایگان | SS | @kingofilter | AT🇦🇹 | 0️⃣4️⃣"
             ],
@@ -158,6 +162,16 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "W74XFALLLuw6m5IA",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @VmessProtocol | AE🇦🇪 | 0️⃣2️⃣",
+            "type": "shadowsocks",
+            "server": "series-a2-mec.varzesh360.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "u17T3BvpYaaiuW2c",
             "plugin": "",
             "plugin_opts": ""
         },
@@ -262,7 +276,17 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @proxy_mtm | NL🇳🇱 | 0️⃣4️⃣",
+            "tag": "رایگان | SS | @proxy_mtm | AE🇦🇪 | 0️⃣3️⃣",
+            "type": "shadowsocks",
+            "server": "series-a2-mec.samanehha.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "u17T3BvpYaaiuW2c",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @proxy_mtm | NL🇳🇱 | 0️⃣5️⃣",
             "type": "shadowsocks",
             "server": "beedoost.org",
             "server_port": 8080,
@@ -272,7 +296,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @proxy_mtm | GB🇬🇧 | 0️⃣5️⃣",
+            "tag": "رایگان | SS | @proxy_mtm | GB🇬🇧 | 0️⃣6️⃣",
             "type": "shadowsocks",
             "server": "series-a2.samanehha.co",
             "server_port": 443,
